@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Orange HRM Regression Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="27.858">
+  <properties />
+  
+  
+            <testcase name="test_DataProviders" time="4.034" classname="testsuite.TC_OrangeHrm" />
+                <testcase name="test_DataProviders" time="8.937" classname="testsuite.TC_OrangeHrm" />
+                <testcase name="test_DataProviders" time="4.129" classname="testsuite.TC_OrangeHrm" />
+                <testcase name="test_DataProviders" time="10.758" classname="testsuite.TC_OrangeHrm" />
+      
+</testsuite>
