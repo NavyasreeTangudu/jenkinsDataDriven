@@ -13,6 +13,7 @@ public class TC_OrangeHrm extends BrowserSetUp{
         openApplication("https://orangehrm-demo-6x.orangehrmlive.com/symfony/web/index.php/auth/login");
         LoginPage loginPage = new LoginPage(driver);
         loginPage.userLogin(username, password);
+        
 
 
 
