@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="TestSuite" thread-count="4" >
-    <parameter name="author" value="Guru99" />
-    <parameter name="searchKey" value="India" />
-    <test name="testGuru">
-        <parameter name="searchKey" value="UK" />
+    <test name = "test1">
+        <parameter name="userName" value="admin" />
+        <parameter name="passWord" value="admin123" />
         <classes>
-            <class name="ParameterExample">
-            </class>
+            <class name = "parameters.ParameterExample"/>
         </classes>
     </test>
-</suite>
+    <test name = "test2">
+        <parameter name="userName" value="_ohrmSysAdmin_" />
+        <parameter name="passWord" value="sysadmin" />
+        <classes>
+            <class name = "parameters.ParameterExample"/>
+        </classes>
+    </test>
+    <test name = "test3">
+        <parameter name="userName" value="linda" />
+        <parameter name="passWord" value="linda.anderson" />
+        <classes>
+            <class name = "parameters.ParameterExample"/>
+        </classes>
+    </test>
+    <test name = "test4">
+        <parameter name="userName" value="kevin" />
+        <parameter name="passWord" value="kevin.mathews" />
+        <classes>
+            <class name = "parameters.ParameterExample"/>
+        </classes>
+    </test>
+    </suite>
