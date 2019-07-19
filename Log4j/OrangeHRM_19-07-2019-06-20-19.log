@@ -1,0 +1,16 @@
+2019-07-19 18:20:19 INFO  Log:28 - test case started
+2019-07-19 18:20:25 INFO  Log:28 - The element is displayed
+2019-07-19 18:20:25 INFO  Log:28 - Cleared the field and entered - admin in the field
+2019-07-19 18:20:25 INFO  Log:28 - The element is displayed
+2019-07-19 18:20:26 INFO  Log:28 - Cleared the field and entered - admin123 in the field
+2019-07-19 18:20:36 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-19 18:20:36 INFO  Log:28 - MyInfoPage is safely clicked 
+2019-07-19 18:20:50 INFO  Log:28 - The login is validated for the user: Jacqueline
+2019-07-19 18:20:53 INFO  Log:28 - test case started
+2019-07-19 18:21:03 INFO  Log:28 - The element is displayed
+2019-07-19 18:21:03 INFO  Log:28 - Cleared the field and entered - _ohrmSysAdmin_ in the field
+2019-07-19 18:21:03 INFO  Log:28 - The element is displayed
+2019-07-19 18:21:03 INFO  Log:28 - Cleared the field and entered - sysadmin in the field
+2019-07-19 18:21:08 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-19 18:21:08 INFO  Log:28 - There is no MyInfo module for the user
+2019-07-19 18:21:12 INFO  Log:28 - test case started

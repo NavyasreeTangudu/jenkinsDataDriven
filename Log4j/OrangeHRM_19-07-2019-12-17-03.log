@@ -1,0 +1,4 @@
+2019-07-19 12:17:03 INFO  Log:28 - Cleared the field and entered - 'admin in the element - [[ChromeDriver: chrome on XP (c408e2f00177ad9281fa9af75dc26170)] -> id: txtUsername]
+2019-07-19 12:17:03 INFO  Log:28 - Cleared the field and entered - 'admin123 in the element - [[ChromeDriver: chrome on XP (c408e2f00177ad9281fa9af75dc26170)] -> id: txtPassword]
+2019-07-19 12:17:18 INFO  Log:28 - Cleared the field and entered - '_ohrmSysAdmin_ in the element - [[ChromeDriver: chrome on XP (6486347af50eeadf5f7b2522a23e160a)] -> id: txtUsername]
+2019-07-19 12:17:18 INFO  Log:28 - Cleared the field and entered - 'sysadmin in the element - [[ChromeDriver: chrome on XP (6486347af50eeadf5f7b2522a23e160a)] -> id: txtPassword]

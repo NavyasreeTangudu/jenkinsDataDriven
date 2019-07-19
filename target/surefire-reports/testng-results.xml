@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="49526" started-at="2019-07-18T12:10:10Z" finished-at="2019-07-18T12:10:59Z">
+    <groups>
+    </groups>
+    <test name="Orange HRM Regression Test" duration-ms="49526" started-at="2019-07-18T12:10:10Z" finished-at="2019-07-18T12:10:59Z">
+      <class name="testsuite.TC_OrangeHrm">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:testsuite.TC_OrangeHrm@7ac7a4e4]" name="openBrowser" is-config="true" duration-ms="4065" started-at="2019-07-18T17:40:10Z" finished-at="2019-07-18T17:40:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="test_DataProviders(java.lang.String, java.lang.String)[pri:0, instance:testsuite.TC_OrangeHrm@7ac7a4e4]" name="test_DataProviders" duration-ms="10832" started-at="2019-07-18T17:40:14Z" data-provider="LoginProvider" finished-at="2019-07-18T17:40:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DataProviders -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testsuite.TC_OrangeHrm@7ac7a4e4]" name="closeBrowser" is-config="true" duration-ms="83" started-at="2019-07-18T17:40:25Z" finished-at="2019-07-18T17:40:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:testsuite.TC_OrangeHrm@7ac7a4e4]" name="openBrowser" is-config="true" duration-ms="3244" started-at="2019-07-18T17:40:25Z" finished-at="2019-07-18T17:40:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="test_DataProviders(java.lang.String, java.lang.String)[pri:0, instance:testsuite.TC_OrangeHrm@7ac7a4e4]" name="test_DataProviders" duration-ms="9969" started-at="2019-07-18T17:40:28Z" data-provider="LoginProvider" finished-at="2019-07-18T17:40:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[_ohrmSysAdmin_]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sysadmin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DataProviders -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testsuite.TC_OrangeHrm@7ac7a4e4]" name="closeBrowser" is-config="true" duration-ms="77" started-at="2019-07-18T17:40:38Z" finished-at="2019-07-18T17:40:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:testsuite.TC_OrangeHrm@7ac7a4e4]" name="openBrowser" is-config="true" duration-ms="3345" started-at="2019-07-18T17:40:38Z" finished-at="2019-07-18T17:40:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="test_DataProviders(java.lang.String, java.lang.String)[pri:0, instance:testsuite.TC_OrangeHrm@7ac7a4e4]" name="test_DataProviders" duration-ms="10044" started-at="2019-07-18T17:40:41Z" data-provider="LoginProvider" finished-at="2019-07-18T17:40:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[linda]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[linda.anderson]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DataProviders -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testsuite.TC_OrangeHrm@7ac7a4e4]" name="closeBrowser" is-config="true" duration-ms="84" started-at="2019-07-18T17:40:51Z" finished-at="2019-07-18T17:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:testsuite.TC_OrangeHrm@7ac7a4e4]" name="openBrowser" is-config="true" duration-ms="3341" started-at="2019-07-18T17:40:51Z" finished-at="2019-07-18T17:40:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="test_DataProviders(java.lang.String, java.lang.String)[pri:0, instance:testsuite.TC_OrangeHrm@7ac7a4e4]" name="test_DataProviders" duration-ms="4322" started-at="2019-07-18T17:40:55Z" data-provider="LoginProvider" finished-at="2019-07-18T17:40:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kevin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kevin.mathews]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_DataProviders -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testsuite.TC_OrangeHrm@7ac7a4e4]" name="closeBrowser" is-config="true" duration-ms="97" started-at="2019-07-18T17:40:59Z" finished-at="2019-07-18T17:40:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testsuite.TC_OrangeHrm -->
+    </test> <!-- Orange HRM Regression Test -->
+  </suite> <!-- Suite1 -->
+</testng-results>

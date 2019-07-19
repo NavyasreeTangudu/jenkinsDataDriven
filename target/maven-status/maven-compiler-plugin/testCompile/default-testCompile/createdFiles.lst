@@ -1,0 +1,3 @@
+testsuite\TC_OrangeHrm.class
+pages\LoginPage.class
+base\BrowserSetUp.class

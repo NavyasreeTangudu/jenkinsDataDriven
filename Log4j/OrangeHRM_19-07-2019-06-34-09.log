@@ -1,0 +1,28 @@
+2019-07-19 18:34:09 INFO  Log:28 - test case started
+2019-07-19 18:34:13 INFO  Log:28 - The element is displayed
+2019-07-19 18:34:13 INFO  Log:28 - Cleared the field and entered - admin in the field
+2019-07-19 18:34:13 INFO  Log:28 - The element is displayed
+2019-07-19 18:34:13 INFO  Log:28 - Cleared the field and entered - admin123 in the field
+2019-07-19 18:34:18 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-19 18:34:18 INFO  Log:28 - MyInfoPage is safely clicked 
+2019-07-19 18:34:32 INFO  Log:28 - The login is validated for the user: Jacqueline
+2019-07-19 18:34:43 ERROR Log:38 - Element was not clickable - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on XP (49bf8f6c0f797b1cd1cbd2166995664e)] -> id: user_menu] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SYSR179', ip: '192.168.2.151', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\NAVYAS~1.TAN\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57355}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: 49bf8f6c0f797b1cd1cbd2166995664e
+2019-07-19 18:34:46 INFO  Log:28 - test case started
+2019-07-19 18:34:50 INFO  Log:28 - The element is displayed
+2019-07-19 18:34:50 INFO  Log:28 - Cleared the field and entered - _ohrmSysAdmin_ in the field
+2019-07-19 18:34:50 INFO  Log:28 - The element is displayed
+2019-07-19 18:34:50 INFO  Log:28 - Cleared the field and entered - sysadmin in the field
+2019-07-19 18:34:55 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-19 18:34:55 INFO  Log:28 - There is no MyInfo module for the user
+2019-07-19 18:35:05 ERROR Log:38 - Element was not clickable - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on XP (dd82f1f2a85c3b13c0b36b33095e44cb)] -> id: user_menu] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SYSR179', ip: '192.168.2.151', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\NAVYAS~1.TAN\AppDa...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57415}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 75.0.3770.142, webStorageEnabled: true}
+Session ID: dd82f1f2a85c3b13c0b36b33095e44cb
+2019-07-19 18:35:09 INFO  Log:28 - test case started

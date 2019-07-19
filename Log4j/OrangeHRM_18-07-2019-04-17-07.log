@@ -1,0 +1,26 @@
+2019-07-18 16:17:07 INFO  Log:28 - test case started
+2019-07-18 16:17:07 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 16:17:12 INFO  Log:28 - TC_001_updatingGeneralInformation test case started
+2019-07-18 16:17:12 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 16:17:12 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 16:17:15 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 16:17:15 INFO  Log:28 - Enter username:Admin
+2019-07-18 16:17:15 INFO  Log:28 - Enter password:admin123
+2019-07-18 16:17:15 INFO  Log:28 - Login credentails are provided
+2019-07-18 16:17:15 INFO  Log:28 - Login button is clicked
+2019-07-18 16:17:17 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 16:17:17 INFO  Log:28 - The module Admin is found
+2019-07-18 16:17:17 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 16:17:17 INFO  Log:28 - The section General Information is clicked
+2019-07-18 16:17:19 INFO  Log:28 - General Information Page of Admin module of Orange HRM is displayed.
+2019-07-18 16:17:19 INFO  Log:28 - Edit button is clicked.
+2019-07-18 16:17:19 INFO  Log:28 - Edit Button is clicked
+2019-07-18 16:17:19 INFO  Log:28 - Registration Number is updated with 147895632.
+2019-07-18 16:17:20 INFO  Log:28 - Save button is clicked.
+2019-07-18 16:17:21 INFO  Log:28 - Save Button is clicked
+2019-07-18 16:17:21 INFO  Log:28 - General Information Updated Successfully.
+2019-07-18 16:17:21 INFO  Log:28 - The name of the testcase passed is :TC_001_updatingGeneralInformation
+2019-07-18 16:17:21 INFO  Log:28 - Closed the Browser
+2019-07-18 16:17:21 INFO  Log:28 - test case ended
+2019-07-18 16:17:21 INFO  Log:28 - test case started
+2019-07-18 16:17:21 INFO  Log:28 - Launched Chrome Browser

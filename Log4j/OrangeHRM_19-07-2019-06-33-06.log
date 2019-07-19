@@ -1,0 +1,8 @@
+2019-07-19 18:33:06 INFO  Log:28 - test case started
+2019-07-19 18:33:10 INFO  Log:28 - The element is displayed
+2019-07-19 18:33:10 INFO  Log:28 - Cleared the field and entered - admin in the field
+2019-07-19 18:33:10 INFO  Log:28 - The element is displayed
+2019-07-19 18:33:10 INFO  Log:28 - Cleared the field and entered - admin123 in the field
+2019-07-19 18:33:14 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-19 18:33:15 INFO  Log:28 - MyInfoPage is safely clicked 
+2019-07-19 18:33:30 INFO  Log:28 - The login is validated for the user: Jacqueline

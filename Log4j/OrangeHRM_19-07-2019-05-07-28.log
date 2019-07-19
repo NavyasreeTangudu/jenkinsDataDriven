@@ -1,0 +1,10 @@
+2019-07-19 17:07:28 INFO  Log:28 - test case started
+2019-07-19 17:07:32 INFO  Log:28 - The element is displayed
+2019-07-19 17:07:32 INFO  Log:28 - Cleared the field and entered - 'admin in the element
+2019-07-19 17:07:32 INFO  Log:28 - The element is displayed
+2019-07-19 17:07:32 INFO  Log:28 - Cleared the field and entered - 'admin123 in the element
+2019-07-19 17:07:55 INFO  Log:28 - test case started
+2019-07-19 17:07:59 INFO  Log:28 - The element is displayed
+2019-07-19 17:07:59 INFO  Log:28 - Cleared the field and entered - '_ohrmSysAdmin_ in the element
+2019-07-19 17:07:59 INFO  Log:28 - The element is displayed
+2019-07-19 17:07:59 INFO  Log:28 - Cleared the field and entered - 'sysadmin in the element

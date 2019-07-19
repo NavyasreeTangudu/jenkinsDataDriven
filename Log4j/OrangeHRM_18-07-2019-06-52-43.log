@@ -1,0 +1,1167 @@
+2019-07-18 18:52:43 INFO  Log:28 - test case started
+2019-07-18 18:52:43 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:52:47 INFO  Log:28 - TC_001_updatingGeneralInformation test case started
+2019-07-18 18:52:47 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:52:47 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:52:51 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:52:51 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:52:51 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:52:52 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:52:52 INFO  Log:28 - Login button is clicked
+2019-07-18 18:52:53 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:52:53 INFO  Log:28 - The module Admin is found
+2019-07-18 18:52:53 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:52:53 INFO  Log:28 - The section General Information is clicked
+2019-07-18 18:52:55 INFO  Log:28 - General Information Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:52:55 INFO  Log:28 - Edit button is clicked.
+2019-07-18 18:52:55 INFO  Log:28 - Edit Button is clicked
+2019-07-18 18:52:55 INFO  Log:28 - Registration Number is updated with 147895632.
+2019-07-18 18:52:56 INFO  Log:28 - Save button is clicked.
+2019-07-18 18:52:56 INFO  Log:28 - Save Button is clicked
+2019-07-18 18:52:57 INFO  Log:28 - General Information Updated Successfully.
+2019-07-18 18:52:57 INFO  Log:28 - The name of the testcase passed is :TC_001_updatingGeneralInformation
+2019-07-18 18:52:57 INFO  Log:28 - Closed the Browser
+2019-07-18 18:52:57 INFO  Log:28 - test case ended
+2019-07-18 18:52:57 INFO  Log:28 - test case started
+2019-07-18 18:52:57 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:53:00 INFO  Log:28 - TC_002_validateCountOfEmployees test case started
+2019-07-18 18:53:00 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:53:00 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:53:04 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:53:04 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:53:04 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:53:04 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:53:04 INFO  Log:28 - Login button is clicked
+2019-07-18 18:53:06 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:53:06 INFO  Log:28 - The module Admin is found
+2019-07-18 18:53:06 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:53:06 INFO  Log:28 - The section General Information is clicked
+2019-07-18 18:53:08 INFO  Log:28 - General Information Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:53:08 INFO  Log:28 - Count of employees is 17.
+2019-07-18 18:53:08 INFO  Log:28 - The module PIM is found
+2019-07-18 18:53:08 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:53:09 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:53:09 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:53:09 INFO  Log:28 - Add button is clicked.
+2019-07-18 18:53:10 INFO  Log:28 - Add Button is clicked
+2019-07-18 18:53:10 INFO  Log:28 - first name is provided
+2019-07-18 18:53:10 INFO  Log:28 - second name is provided
+2019-07-18 18:53:10 INFO  Log:28 - empoloyee id is provided
+2019-07-18 18:53:11 INFO  Log:28 - Save button is clicked.
+2019-07-18 18:53:13 INFO  Log:28 - Save Button is clicked
+2019-07-18 18:53:13 INFO  Log:28 - The module Admin is found
+2019-07-18 18:53:13 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:53:13 INFO  Log:28 - The section General Information is clicked
+2019-07-18 18:53:13 INFO  Log:28 - Count of employees is 18.
+2019-07-18 18:53:13 INFO  Log:28 - The name of the testcase passed is :TC_002_validateCountOfEmployees
+2019-07-18 18:53:13 INFO  Log:28 - Closed the Browser
+2019-07-18 18:53:13 INFO  Log:28 - test case ended
+2019-07-18 18:53:13 INFO  Log:28 - test case started
+2019-07-18 18:53:13 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:53:17 INFO  Log:28 - TC_003_validateMandatoryFields test case started
+2019-07-18 18:53:17 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:53:17 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:53:21 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:53:21 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:53:21 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:53:21 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:53:21 INFO  Log:28 - Login button is clicked
+2019-07-18 18:53:23 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:53:23 INFO  Log:28 - The module Admin is found
+2019-07-18 18:53:23 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:53:23 INFO  Log:28 - The section General Information is clicked
+2019-07-18 18:53:25 INFO  Log:28 - General Information Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:53:25 INFO  Log:28 - Edit button is clicked.
+2019-07-18 18:53:25 INFO  Log:28 - Edit Button is clicked
+2019-07-18 18:53:25 INFO  Log:28 - Organization Name  is updated with .
+2019-07-18 18:53:25 INFO  Log:28 - Save button is clicked.
+2019-07-18 18:53:25 INFO  Log:28 - Save Button is clicked
+2019-07-18 18:53:25 INFO  Log:28 - Mandatory Fields Required.
+2019-07-18 18:53:25 INFO  Log:28 - The name of the testcase passed is :TC_003_validateMandatoryFields
+2019-07-18 18:53:25 INFO  Log:28 - Closed the Browser
+2019-07-18 18:53:25 INFO  Log:28 - test case ended
+2019-07-18 18:53:25 INFO  Log:28 - test case started
+2019-07-18 18:53:25 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:53:29 INFO  Log:28 - TC_004_validateNonMandatoryFields test case started
+2019-07-18 18:53:29 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:53:29 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:53:33 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:53:33 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:53:33 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:53:33 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:53:33 INFO  Log:28 - Login button is clicked
+2019-07-18 18:53:35 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:53:35 INFO  Log:28 - The module Admin is found
+2019-07-18 18:53:35 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:53:35 INFO  Log:28 - The section General Information is clicked
+2019-07-18 18:53:37 INFO  Log:28 - General Information Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:53:37 INFO  Log:28 - Edit button is clicked.
+2019-07-18 18:53:37 INFO  Log:28 - Edit Button is clicked
+2019-07-18 18:53:37 INFO  Log:28 - Address Street 1 is updated with .
+2019-07-18 18:53:37 INFO  Log:28 - Save button is clicked.
+2019-07-18 18:53:38 INFO  Log:28 - Save Button is clicked
+2019-07-18 18:53:38 INFO  Log:28 - General Information Updated Successfully.
+2019-07-18 18:53:38 INFO  Log:28 - The name of the testcase passed is :TC_004_validateNonMandatoryFields
+2019-07-18 18:53:38 INFO  Log:28 - Closed the Browser
+2019-07-18 18:53:39 INFO  Log:28 - test case ended
+2019-07-18 18:53:39 INFO  Log:28 - test case started
+2019-07-18 18:53:39 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:53:42 INFO  Log:28 - TC_005_verifyAddingNewCity test case started
+2019-07-18 18:53:42 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:53:42 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:53:46 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:53:46 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:53:46 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:53:46 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:53:46 INFO  Log:28 - Login button is clicked
+2019-07-18 18:53:48 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:53:48 INFO  Log:28 - The module Admin is found
+2019-07-18 18:53:48 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:53:48 INFO  Log:28 - The section Locations is clicked
+2019-07-18 18:53:50 INFO  Log:28 - Locations Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:53:50 INFO  Log:28 - Add button is clicked.
+2019-07-18 18:53:51 INFO  Log:28 - Add Button is clicked
+2019-07-18 18:53:51 INFO  Log:28 - The locations of Vizag R&D is searched.
+2019-07-18 18:53:51 INFO  Log:28 - The locations of Vizag is searched.
+2019-07-18 18:53:51 INFO  Log:28 - The locations in the country India is searched.
+2019-07-18 18:53:51 INFO  Log:28 - Save button is clicked.
+2019-07-18 18:53:51 INFO  Log:28 - Save Button is clicked
+2019-07-18 18:53:51 INFO  Log:28 - The name of the testcase passed is :TC_005_verifyAddingNewCity
+2019-07-18 18:53:51 INFO  Log:28 - Closed the Browser
+2019-07-18 18:53:54 INFO  Log:28 - test case ended
+2019-07-18 18:53:54 INFO  Log:28 - test case started
+2019-07-18 18:53:54 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:53:57 INFO  Log:28 - TC_006_validateSearchByAvailableLocationName test case started
+2019-07-18 18:53:57 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:53:57 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:54:01 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:54:01 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:54:01 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:54:01 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:54:01 INFO  Log:28 - Login button is clicked
+2019-07-18 18:54:03 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:54:03 INFO  Log:28 - The module Admin is found
+2019-07-18 18:54:03 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:54:03 INFO  Log:28 - The section Locations is clicked
+2019-07-18 18:54:05 INFO  Log:28 - Locations Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:54:05 INFO  Log:28 - The locations of Canadian Development Center is searched.
+2019-07-18 18:54:06 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:54:06 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:54:06 INFO  Log:28 - The results for Canadian Development Center were shown below.
+2019-07-18 18:54:06 INFO  Log:28 - The name of the testcase passed is :TC_006_validateSearchByAvailableLocationName
+2019-07-18 18:54:06 INFO  Log:28 - Closed the Browser
+2019-07-18 18:54:06 INFO  Log:28 - test case ended
+2019-07-18 18:54:06 INFO  Log:28 - test case started
+2019-07-18 18:54:06 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:54:09 INFO  Log:28 - TC_007_validateSearchByUnavailableLocationName test case started
+2019-07-18 18:54:09 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:54:09 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:54:14 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:54:14 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:54:14 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:54:14 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:54:14 INFO  Log:28 - Login button is clicked
+2019-07-18 18:54:15 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:54:15 INFO  Log:28 - The module Admin is found
+2019-07-18 18:54:15 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:54:15 INFO  Log:28 - The section Locations is clicked
+2019-07-18 18:54:18 INFO  Log:28 - Locations Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:54:18 INFO  Log:28 - The locations of Hyderabad R&D is searched.
+2019-07-18 18:54:18 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:54:18 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:54:19 INFO  Log:28 - No Records Found for Hyderabad R&D.
+2019-07-18 18:54:19 INFO  Log:28 - The name of the testcase passed is :TC_007_validateSearchByUnavailableLocationName
+2019-07-18 18:54:19 INFO  Log:28 - Closed the Browser
+2019-07-18 18:54:19 INFO  Log:28 - test case ended
+2019-07-18 18:54:19 INFO  Log:28 - test case started
+2019-07-18 18:54:19 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:54:22 INFO  Log:28 - TC_008_validateSearchByAvailableCityName test case started
+2019-07-18 18:54:22 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:54:22 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:54:26 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:54:26 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:54:26 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:54:26 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:54:26 INFO  Log:28 - Login button is clicked
+2019-07-18 18:54:28 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:54:28 INFO  Log:28 - The module Admin is found
+2019-07-18 18:54:28 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:54:28 INFO  Log:28 - The section Locations is clicked
+2019-07-18 18:54:30 INFO  Log:28 - Locations Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:54:30 INFO  Log:28 - The locations of Vizag is searched.
+2019-07-18 18:54:30 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:54:31 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:54:31 INFO  Log:28 - The results for Vizag were shown below.
+2019-07-18 18:54:31 INFO  Log:28 - The name of the testcase passed is :TC_008_validateSearchByAvailableCityName
+2019-07-18 18:54:31 INFO  Log:28 - Closed the Browser
+2019-07-18 18:54:31 INFO  Log:28 - test case ended
+2019-07-18 18:54:31 INFO  Log:28 - test case started
+2019-07-18 18:54:31 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:54:34 INFO  Log:28 - TC_009_validateSearchByUnavailableCityName test case started
+2019-07-18 18:54:34 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:54:34 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:54:38 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:54:38 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:54:38 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:54:38 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:54:38 INFO  Log:28 - Login button is clicked
+2019-07-18 18:54:40 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:54:40 INFO  Log:28 - The module Admin is found
+2019-07-18 18:54:40 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:54:40 INFO  Log:28 - The section Locations is clicked
+2019-07-18 18:54:43 INFO  Log:28 - Locations Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:54:43 INFO  Log:28 - The locations of Victoria is searched.
+2019-07-18 18:54:43 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:54:43 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:54:43 INFO  Log:28 - No Records Found for Victoria.
+2019-07-18 18:54:43 INFO  Log:28 - The name of the testcase passed is :TC_009_validateSearchByUnavailableCityName
+2019-07-18 18:54:43 INFO  Log:28 - Closed the Browser
+2019-07-18 18:54:43 INFO  Log:28 - test case ended
+2019-07-18 18:54:43 INFO  Log:28 - test case started
+2019-07-18 18:54:43 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:54:47 INFO  Log:28 - TC_010_validateSearchByAvailableCountry test case started
+2019-07-18 18:54:47 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:54:47 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:54:51 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:54:51 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:54:51 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:54:51 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:54:51 INFO  Log:28 - Login button is clicked
+2019-07-18 18:54:52 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:54:52 INFO  Log:28 - The module Admin is found
+2019-07-18 18:54:53 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:54:53 INFO  Log:28 - The section Locations is clicked
+2019-07-18 18:54:55 INFO  Log:28 - Locations Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:54:55 INFO  Log:28 - The locations in the country United States is searched.
+2019-07-18 18:54:55 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:54:56 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:54:56 INFO  Log:28 - The results for Afghanistan were shown below.
+2019-07-18 18:54:56 INFO  Log:28 - The name of the testcase passed is :TC_010_validateSearchByAvailableCountry
+2019-07-18 18:54:56 INFO  Log:28 - Closed the Browser
+2019-07-18 18:54:56 INFO  Log:28 - test case ended
+2019-07-18 18:54:56 INFO  Log:28 - test case started
+2019-07-18 18:54:56 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:54:59 INFO  Log:28 - TC_011_validateSearchByUnavailableCountry test case started
+2019-07-18 18:54:59 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:54:59 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:55:03 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:55:03 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:55:03 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:55:03 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:55:03 INFO  Log:28 - Login button is clicked
+2019-07-18 18:55:05 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:55:05 INFO  Log:28 - The module Admin is found
+2019-07-18 18:55:05 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:55:05 INFO  Log:28 - The section Locations is clicked
+2019-07-18 18:55:07 INFO  Log:28 - Locations Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:55:07 INFO  Log:28 - The locations in the country Afghanistan is searched.
+2019-07-18 18:55:08 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:55:08 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:55:08 INFO  Log:28 - No Records Found for Afghanistan.
+2019-07-18 18:55:08 INFO  Log:28 - The name of the testcase passed is :TC_011_validateSearchByUnavailableCountry
+2019-07-18 18:55:08 INFO  Log:28 - Closed the Browser
+2019-07-18 18:55:08 INFO  Log:28 - test case ended
+2019-07-18 18:55:08 INFO  Log:28 - test case started
+2019-07-18 18:55:08 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:55:11 INFO  Log:28 - TC_012_validateOptionsBar test case started
+2019-07-18 18:55:11 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:55:11 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:55:16 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:55:16 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:55:16 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:55:16 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:55:16 INFO  Log:28 - Login button is clicked
+2019-07-18 18:55:17 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:55:17 INFO  Log:28 - The module Admin is found
+2019-07-18 18:55:17 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:55:17 INFO  Log:28 - The section Locations is clicked
+2019-07-18 18:55:20 INFO  Log:28 - Locations Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:55:20 INFO  Log:28 - Options bar is clicked to hide.
+2019-07-18 18:55:20 INFO  Log:28 - Options Bar hidden and expanded successfully.
+2019-07-18 18:55:20 INFO  Log:28 - The name of the testcase passed is :TC_012_validateOptionsBar
+2019-07-18 18:55:20 INFO  Log:28 - Closed the Browser
+2019-07-18 18:55:20 INFO  Log:28 - test case ended
+2019-07-18 18:55:20 INFO  Log:28 - test case started
+2019-07-18 18:55:20 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:55:23 INFO  Log:28 - TC_013_validateUpdatedCityInfo test case started
+2019-07-18 18:55:23 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:55:23 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:55:27 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:55:27 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:55:27 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:55:27 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:55:27 INFO  Log:28 - Login button is clicked
+2019-07-18 18:55:29 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:55:29 INFO  Log:28 - The module Admin is found
+2019-07-18 18:55:29 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:55:29 INFO  Log:28 - The section Locations is clicked
+2019-07-18 18:55:32 INFO  Log:28 - Locations Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:55:32 WARN  Log:33 - The name of the testcase failed is :TC_013_validateUpdatedCityInfo
+2019-07-18 18:55:32 INFO  Log:28 - Closed the Browser
+2019-07-18 18:55:32 INFO  Log:28 - test case ended
+2019-07-18 18:55:32 INFO  Log:28 - test case started
+2019-07-18 18:55:32 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:55:36 INFO  Log:28 - TC_014_deletingExistedLocation test case started
+2019-07-18 18:55:36 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:55:36 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:55:40 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:55:40 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:55:40 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:55:40 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:55:40 INFO  Log:28 - Login button is clicked
+2019-07-18 18:55:41 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:55:41 INFO  Log:28 - The module Admin is found
+2019-07-18 18:55:41 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:55:41 INFO  Log:28 - The section Locations is clicked
+2019-07-18 18:55:44 INFO  Log:28 - Locations Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:55:44 WARN  Log:33 - The name of the testcase failed is :TC_014_deletingExistedLocation
+2019-07-18 18:55:44 INFO  Log:28 - Closed the Browser
+2019-07-18 18:55:44 INFO  Log:28 - test case ended
+2019-07-18 18:55:44 INFO  Log:28 - test case started
+2019-07-18 18:55:44 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:55:48 INFO  Log:28 - TC_015_validateReset test case started
+2019-07-18 18:55:48 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:55:48 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:55:52 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:55:52 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:55:52 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:55:52 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:55:52 INFO  Log:28 - Login button is clicked
+2019-07-18 18:55:53 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:55:53 INFO  Log:28 - The module Admin is found
+2019-07-18 18:55:53 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:55:54 INFO  Log:28 - The section Locations is clicked
+2019-07-18 18:55:56 INFO  Log:28 - Locations Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:55:56 INFO  Log:28 - The locations of Canadian Development Center is searched.
+2019-07-18 18:55:56 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:55:57 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:55:57 INFO  Log:28 - The results for Canadian Development Center were shown below.
+2019-07-18 18:55:57 INFO  Log:28 - Reset button is clicked.
+2019-07-18 18:55:57 INFO  Log:28 - Reset Button is clicked
+2019-07-18 18:55:57 INFO  Log:28 - Reset button is verified.
+2019-07-18 18:55:57 INFO  Log:28 - The name of the testcase passed is :TC_015_validateReset
+2019-07-18 18:55:57 INFO  Log:28 - Closed the Browser
+2019-07-18 18:55:57 INFO  Log:28 - test case ended
+2019-07-18 18:55:57 INFO  Log:28 - test case started
+2019-07-18 18:55:57 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:56:01 INFO  Log:28 - TC_016_removeUnitOfStructure test case started
+2019-07-18 18:56:01 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:56:01 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:56:05 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:56:05 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:56:05 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:56:05 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:56:05 INFO  Log:28 - Login button is clicked
+2019-07-18 18:56:07 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:56:07 INFO  Log:28 - The module Admin is found
+2019-07-18 18:56:07 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:56:07 INFO  Log:28 - The section Structure is clicked
+2019-07-18 18:56:09 INFO  Log:28 - Structure Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:56:09 INFO  Log:28 - Edit button is clicked.
+2019-07-18 18:56:09 INFO  Log:28 - Edit Button is clicked
+2019-07-18 18:56:09 WARN  Log:33 - The name of the testcase failed is :TC_016_removeUnitOfStructure
+2019-07-18 18:56:10 INFO  Log:28 - Closed the Browser
+2019-07-18 18:56:12 INFO  Log:28 - test case ended
+2019-07-18 18:56:12 INFO  Log:28 - test case started
+2019-07-18 18:56:12 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:56:15 INFO  Log:28 - TC_017_addUnitOfStructure test case started
+2019-07-18 18:56:15 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:56:15 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:56:19 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:56:20 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:56:20 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:56:20 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:56:20 INFO  Log:28 - Login button is clicked
+2019-07-18 18:56:21 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:56:21 INFO  Log:28 - The module Admin is found
+2019-07-18 18:56:21 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:56:21 INFO  Log:28 - The section Structure is clicked
+2019-07-18 18:56:24 INFO  Log:28 - Structure Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:56:24 INFO  Log:28 - Edit button is clicked.
+2019-07-18 18:56:24 INFO  Log:28 - Edit Button is clicked
+2019-07-18 18:56:24 INFO  Log:28 - The unit OrangeHRM (Pvt) Ltd is edited(+).
+2019-07-18 18:56:24 INFO  Log:28 - Updated the deatils of the unit.
+2019-07-18 18:56:24 INFO  Log:28 - Save button is clicked.
+2019-07-18 18:56:25 INFO  Log:28 - Save Button is clicked
+2019-07-18 18:56:26 INFO  Log:28 - The unit Business is added.
+2019-07-18 18:56:26 INFO  Log:28 - The name of the testcase passed is :TC_017_addUnitOfStructure
+2019-07-18 18:56:26 INFO  Log:28 - Closed the Browser
+2019-07-18 18:56:26 INFO  Log:28 - test case ended
+2019-07-18 18:56:26 INFO  Log:28 - test case started
+2019-07-18 18:56:26 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:56:29 INFO  Log:28 - TC_018_updateUnitOfStructure test case started
+2019-07-18 18:56:29 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:56:29 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:56:34 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:56:34 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:56:34 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:56:34 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:56:34 INFO  Log:28 - Login button is clicked
+2019-07-18 18:56:35 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:56:35 INFO  Log:28 - The module Admin is found
+2019-07-18 18:56:35 INFO  Log:28 - The sub-module Organization is found
+2019-07-18 18:56:35 INFO  Log:28 - The section Structure is clicked
+2019-07-18 18:56:38 INFO  Log:28 - Structure Page of Admin module of Orange HRM is displayed.
+2019-07-18 18:56:38 INFO  Log:28 - Edit button is clicked.
+2019-07-18 18:56:38 INFO  Log:28 - Edit Button is clicked
+2019-07-18 18:56:38 INFO  Log:28 - The unit Business is clicked.
+2019-07-18 18:56:38 INFO  Log:28 - Updated the deatils of the unit.
+2019-07-18 18:56:38 INFO  Log:28 - Save button is clicked.
+2019-07-18 18:56:39 INFO  Log:28 - Save Button is clicked
+2019-07-18 18:56:39 INFO  Log:28 - The unit Sales is added.
+2019-07-18 18:56:39 INFO  Log:28 - The name of the testcase passed is :TC_018_updateUnitOfStructure
+2019-07-18 18:56:39 INFO  Log:28 - Closed the Browser
+2019-07-18 18:56:39 INFO  Log:28 - test case ended
+2019-07-18 18:56:39 INFO  Log:28 - test case started
+2019-07-18 18:56:39 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:56:43 INFO  Log:28 - tc_001_validateSearch_ValidEmpName test case started
+2019-07-18 18:56:43 INFO  Log:28 - Test case: tc_001_validateSearch_ValidEmpNameis started
+2019-07-18 18:56:43 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:56:43 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:56:47 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:56:47 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:56:47 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:56:47 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:56:47 INFO  Log:28 - Login button is clicked
+2019-07-18 18:56:48 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:56:48 INFO  Log:28 - The module PIM is found
+2019-07-18 18:56:48 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:56:51 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:56:51 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:56:51 INFO  Log:28 - empname is provided
+2019-07-18 18:56:51 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:56:52 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:56:53 INFO  Log:28 - validation is done
+2019-07-18 18:56:53 INFO  Log:28 - Test case: tc_001_validateSearch_ValidEmpNameis completed
+2019-07-18 18:56:53 INFO  Log:28 - The name of the testcase passed is :tc_001_validateSearch_ValidEmpName
+2019-07-18 18:56:53 INFO  Log:28 - Closed the Browser
+2019-07-18 18:56:53 INFO  Log:28 - test case ended
+2019-07-18 18:56:53 INFO  Log:28 - test case started
+2019-07-18 18:56:53 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:56:56 INFO  Log:28 - tc_002_validateSearch_InvalidEmpName test case started
+2019-07-18 18:56:56 INFO  Log:28 - Test case:tc_002_validateSearch_InvalidEmpNameis started
+2019-07-18 18:56:56 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:56:56 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:57:00 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:57:00 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:57:00 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:57:01 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:57:01 INFO  Log:28 - Login button is clicked
+2019-07-18 18:57:02 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:57:02 INFO  Log:28 - The module PIM is found
+2019-07-18 18:57:02 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:57:05 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:57:05 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:57:05 INFO  Log:28 - empname is provided
+2019-07-18 18:57:05 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:57:05 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:57:05 INFO  Log:28 - validation is done
+2019-07-18 18:57:05 INFO  Log:28 - Test case: tc_002_validateSearch_InvalidEmpNameis completed
+2019-07-18 18:57:05 INFO  Log:28 - The name of the testcase passed is :tc_002_validateSearch_InvalidEmpName
+2019-07-18 18:57:05 INFO  Log:28 - Closed the Browser
+2019-07-18 18:57:06 INFO  Log:28 - test case ended
+2019-07-18 18:57:06 INFO  Log:28 - test case started
+2019-07-18 18:57:06 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:57:09 INFO  Log:28 - tc_003_validateSearch_ValidEmpId test case started
+2019-07-18 18:57:09 INFO  Log:28 - Test case:tc_003_validateSearch_ValidEmpIdis started
+2019-07-18 18:57:09 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:57:09 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:57:13 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:57:13 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:57:13 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:57:13 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:57:13 INFO  Log:28 - Login button is clicked
+2019-07-18 18:57:15 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:57:15 INFO  Log:28 - The module PIM is found
+2019-07-18 18:57:15 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:57:17 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:57:17 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:57:18 INFO  Log:28 - empid  is provided
+2019-07-18 18:57:18 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:57:18 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:57:19 INFO  Log:28 - validation is done
+2019-07-18 18:57:19 INFO  Log:28 - Test case: tc_003_validateSearch_ValidEmpIdis completed
+2019-07-18 18:57:19 INFO  Log:28 - The name of the testcase passed is :tc_003_validateSearch_ValidEmpId
+2019-07-18 18:57:19 INFO  Log:28 - Closed the Browser
+2019-07-18 18:57:19 INFO  Log:28 - test case ended
+2019-07-18 18:57:19 INFO  Log:28 - test case started
+2019-07-18 18:57:19 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:57:23 INFO  Log:28 - tc_004_validateSearch_InvalidEmpId test case started
+2019-07-18 18:57:23 INFO  Log:28 - Test case:tc_004_validateSearch_InvalidEmpIdis started
+2019-07-18 18:57:23 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:57:23 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:57:27 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:57:27 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:57:27 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:57:27 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:57:27 INFO  Log:28 - Login button is clicked
+2019-07-18 18:57:28 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:57:28 INFO  Log:28 - The module PIM is found
+2019-07-18 18:57:28 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:57:31 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:57:31 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:57:31 INFO  Log:28 - empid  is provided
+2019-07-18 18:57:31 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:57:31 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:57:31 INFO  Log:28 - validation is done
+2019-07-18 18:57:31 INFO  Log:28 - Test case: tc_004_validateSearch_InvalidEmpIdis completed
+2019-07-18 18:57:31 INFO  Log:28 - The name of the testcase passed is :tc_004_validateSearch_InvalidEmpId
+2019-07-18 18:57:31 INFO  Log:28 - Closed the Browser
+2019-07-18 18:57:32 INFO  Log:28 - test case ended
+2019-07-18 18:57:32 INFO  Log:28 - test case started
+2019-07-18 18:57:32 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:57:35 INFO  Log:28 - tc_005_validateSearch_EmpStatus test case started
+2019-07-18 18:57:35 INFO  Log:28 - Test case:tc_005_validateSearch_EmpStatusis started
+2019-07-18 18:57:35 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:57:35 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:57:39 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:57:39 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:57:39 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:57:39 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:57:39 INFO  Log:28 - Login button is clicked
+2019-07-18 18:57:41 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:57:41 INFO  Log:28 - The module PIM is found
+2019-07-18 18:57:41 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:57:43 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:57:43 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:57:43 INFO  Log:28 - emp status is selected
+2019-07-18 18:57:43 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:57:44 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:57:45 INFO  Log:28 - validation is done
+2019-07-18 18:57:45 INFO  Log:28 - Test case: tc_005_validateSearch_EmpStatusis completed
+2019-07-18 18:57:45 INFO  Log:28 - The name of the testcase passed is :tc_005_validateSearch_EmpStatus
+2019-07-18 18:57:45 INFO  Log:28 - Closed the Browser
+2019-07-18 18:57:45 INFO  Log:28 - test case ended
+2019-07-18 18:57:45 INFO  Log:28 - test case started
+2019-07-18 18:57:45 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:57:48 INFO  Log:28 - tc_006_validateSearch_EmpJobTitle test case started
+2019-07-18 18:57:48 INFO  Log:28 - Test case:tc_006_validateSearch_EmpJobTitleis started
+2019-07-18 18:57:48 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:57:48 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:57:52 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:57:52 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:57:52 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:57:53 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:57:53 INFO  Log:28 - Login button is clicked
+2019-07-18 18:57:54 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:57:54 INFO  Log:28 - The module PIM is found
+2019-07-18 18:57:54 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:57:57 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:57:57 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:57:57 INFO  Log:28 - jobtitile is selected
+2019-07-18 18:57:57 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:57:57 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:57:58 INFO  Log:28 - validation is done
+2019-07-18 18:57:58 INFO  Log:28 - Test case: tc_006_validateSearch_EmpJobTitleis completed
+2019-07-18 18:57:58 INFO  Log:28 - The name of the testcase passed is :tc_006_validateSearch_EmpJobTitle
+2019-07-18 18:57:58 INFO  Log:28 - Closed the Browser
+2019-07-18 18:57:58 INFO  Log:28 - test case ended
+2019-07-18 18:57:58 INFO  Log:28 - test case started
+2019-07-18 18:57:58 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:58:02 INFO  Log:28 - tc_007_validateSearch_EmpSubUnit test case started
+2019-07-18 18:58:02 INFO  Log:28 - Test case:tc_007_validateSearch_EmpSubUnitis started
+2019-07-18 18:58:02 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:58:02 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:58:06 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:58:06 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:58:06 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:58:06 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:58:06 INFO  Log:28 - Login button is clicked
+2019-07-18 18:58:07 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:58:07 INFO  Log:28 - The module PIM is found
+2019-07-18 18:58:07 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:58:10 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:58:10 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:58:10 INFO  Log:28 - subunit is selected
+2019-07-18 18:58:10 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:58:10 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:58:12 INFO  Log:28 - validation is done
+2019-07-18 18:58:12 INFO  Log:28 - Test case: tc_007_validateSearch_EmpSubUnitis completed
+2019-07-18 18:58:12 INFO  Log:28 - The name of the testcase passed is :tc_007_validateSearch_EmpSubUnit
+2019-07-18 18:58:12 INFO  Log:28 - Closed the Browser
+2019-07-18 18:58:12 INFO  Log:28 - test case ended
+2019-07-18 18:58:12 INFO  Log:28 - test case started
+2019-07-18 18:58:12 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:58:15 INFO  Log:28 - tc_008_validateSearch_ValidEmpName_ValidEmpId test case started
+2019-07-18 18:58:15 INFO  Log:28 - Test case:tc_008_validateSearch_ValidEmpName_ValidEmpIdis started
+2019-07-18 18:58:15 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:58:15 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:58:19 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:58:19 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:58:19 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:58:19 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:58:19 INFO  Log:28 - Login button is clicked
+2019-07-18 18:58:21 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:58:21 INFO  Log:28 - The module PIM is found
+2019-07-18 18:58:21 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:58:23 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:58:23 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:58:23 INFO  Log:28 - empname is provided
+2019-07-18 18:58:24 INFO  Log:28 - empid  is provided
+2019-07-18 18:58:24 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:58:24 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:58:25 INFO  Log:28 - validation is done
+2019-07-18 18:58:25 INFO  Log:28 - Test case: tc_008_validateSearch_ValidEmpName_ValidEmpIdis completed
+2019-07-18 18:58:25 INFO  Log:28 - The name of the testcase passed is :tc_008_validateSearch_ValidEmpName_ValidEmpId
+2019-07-18 18:58:25 INFO  Log:28 - Closed the Browser
+2019-07-18 18:58:25 INFO  Log:28 - test case ended
+2019-07-18 18:58:25 INFO  Log:28 - test case started
+2019-07-18 18:58:25 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:58:29 INFO  Log:28 - tc_009_validateSearch_ValidEmpName_InvalidEmpId test case started
+2019-07-18 18:58:29 INFO  Log:28 - Test case:tc_009_validateSearch_ValidEmpName_InvalidEmpIdis started
+2019-07-18 18:58:29 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:58:29 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:58:33 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:58:33 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:58:33 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:58:33 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:58:33 INFO  Log:28 - Login button is clicked
+2019-07-18 18:58:34 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:58:34 INFO  Log:28 - The module PIM is found
+2019-07-18 18:58:35 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:58:37 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:58:37 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:58:37 INFO  Log:28 - empname is provided
+2019-07-18 18:58:37 INFO  Log:28 - empid  is provided
+2019-07-18 18:58:37 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:58:38 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:58:38 INFO  Log:28 - validation is done
+2019-07-18 18:58:38 INFO  Log:28 - Test case: tc_009_validateSearch_ValidEmpName_InvalidEmpIdis completed
+2019-07-18 18:58:38 INFO  Log:28 - The name of the testcase passed is :tc_009_validateSearch_ValidEmpName_InvalidEmpId
+2019-07-18 18:58:38 INFO  Log:28 - Closed the Browser
+2019-07-18 18:58:38 INFO  Log:28 - test case ended
+2019-07-18 18:58:38 INFO  Log:28 - test case started
+2019-07-18 18:58:38 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:58:41 INFO  Log:28 - tc_010_validateSearch_InvalidEmpName_ValidEmpId test case started
+2019-07-18 18:58:41 INFO  Log:28 - Test case:tc_010_validateSearch_InvalidEmpName_ValidEmpIdis started
+2019-07-18 18:58:41 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:58:41 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:58:45 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:58:45 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:58:45 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:58:45 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:58:45 INFO  Log:28 - Login button is clicked
+2019-07-18 18:58:47 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:58:47 INFO  Log:28 - The module PIM is found
+2019-07-18 18:58:47 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:58:49 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:58:49 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:58:50 INFO  Log:28 - empname is provided
+2019-07-18 18:58:50 INFO  Log:28 - empid  is provided
+2019-07-18 18:58:50 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:58:50 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:58:50 INFO  Log:28 - validation is done
+2019-07-18 18:58:50 INFO  Log:28 - Test case: tc_010_validateSearch_InvalidEmpName_ValidEmpIdis completed
+2019-07-18 18:58:50 INFO  Log:28 - The name of the testcase passed is :tc_010_validateSearch_InvalidEmpName_ValidEmpId
+2019-07-18 18:58:50 INFO  Log:28 - Closed the Browser
+2019-07-18 18:58:50 INFO  Log:28 - test case ended
+2019-07-18 18:58:50 INFO  Log:28 - test case started
+2019-07-18 18:58:50 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:58:54 INFO  Log:28 - tc_011_validateSearch_InvalidEmpName_InValidEmpId test case started
+2019-07-18 18:58:54 INFO  Log:28 - Test case:tc_011_validateSearch_InvalidEmpName_InValidEmpIdis started
+2019-07-18 18:58:54 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:58:54 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:58:58 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:58:58 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:58:58 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:58:58 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:58:58 INFO  Log:28 - Login button is clicked
+2019-07-18 18:58:59 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:58:59 INFO  Log:28 - The module PIM is found
+2019-07-18 18:58:59 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:59:02 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:59:02 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:59:02 INFO  Log:28 - empname is provided
+2019-07-18 18:59:02 INFO  Log:28 - empid  is provided
+2019-07-18 18:59:02 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:59:03 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:59:03 INFO  Log:28 - validation is done
+2019-07-18 18:59:03 INFO  Log:28 - Test case: tc_011_validateSearch_InvalidEmpName_InValidEmpIdis completed
+2019-07-18 18:59:03 INFO  Log:28 - The name of the testcase passed is :tc_011_validateSearch_InvalidEmpName_InValidEmpId
+2019-07-18 18:59:03 INFO  Log:28 - Closed the Browser
+2019-07-18 18:59:03 INFO  Log:28 - test case ended
+2019-07-18 18:59:03 INFO  Log:28 - test case started
+2019-07-18 18:59:03 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:59:06 INFO  Log:28 - tc_012_validateSearch_ValidSupervisorName test case started
+2019-07-18 18:59:06 INFO  Log:28 - Test case:tc_012_validateSearch_ValidSupervisorNameis started
+2019-07-18 18:59:06 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:59:06 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:59:10 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:59:10 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:59:10 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:59:10 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:59:10 INFO  Log:28 - Login button is clicked
+2019-07-18 18:59:12 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:59:12 INFO  Log:28 - The module PIM is found
+2019-07-18 18:59:12 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:59:14 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:59:14 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:59:14 INFO  Log:28 - supervisor name is provided
+2019-07-18 18:59:15 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:59:15 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:59:16 INFO  Log:28 - validation is done
+2019-07-18 18:59:16 INFO  Log:28 - Test case: tc_012_validateSearch_ValidSupervisorNameis completed
+2019-07-18 18:59:16 INFO  Log:28 - The name of the testcase passed is :tc_012_validateSearch_ValidSupervisorName
+2019-07-18 18:59:16 INFO  Log:28 - Closed the Browser
+2019-07-18 18:59:16 INFO  Log:28 - test case ended
+2019-07-18 18:59:16 INFO  Log:28 - test case started
+2019-07-18 18:59:16 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:59:20 INFO  Log:28 - tc_013_validateSearch_InvalidSupervisorName test case started
+2019-07-18 18:59:20 INFO  Log:28 - Test case:tc_013_validateSearch_InvalidSupervisorNameis started
+2019-07-18 18:59:20 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:59:20 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:59:24 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:59:24 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:59:24 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:59:24 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:59:24 INFO  Log:28 - Login button is clicked
+2019-07-18 18:59:25 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:59:25 INFO  Log:28 - The module PIM is found
+2019-07-18 18:59:25 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:59:28 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:59:28 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:59:28 INFO  Log:28 - supervisor name is provided
+2019-07-18 18:59:28 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:59:28 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:59:29 INFO  Log:28 - validation is done
+2019-07-18 18:59:29 INFO  Log:28 - Test case: tc_013_validateSearch_InvalidSupervisorNameis completed
+2019-07-18 18:59:29 INFO  Log:28 - The name of the testcase passed is :tc_013_validateSearch_InvalidSupervisorName
+2019-07-18 18:59:29 INFO  Log:28 - Closed the Browser
+2019-07-18 18:59:29 INFO  Log:28 - test case ended
+2019-07-18 18:59:29 INFO  Log:28 - test case started
+2019-07-18 18:59:29 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:59:32 INFO  Log:28 - tc_014_validateSearch_ValidEmpName_ValidEmpId_InvalidSupervisorName test case started
+2019-07-18 18:59:32 INFO  Log:28 - Test case:tc_014_validateSearch_ValidEmpName_ValidEmpId_InvalidSupervisorNameis started
+2019-07-18 18:59:32 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:59:32 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:59:36 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:59:36 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:59:36 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:59:36 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:59:36 INFO  Log:28 - Login button is clicked
+2019-07-18 18:59:38 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:59:38 INFO  Log:28 - The module PIM is found
+2019-07-18 18:59:38 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:59:40 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:59:40 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:59:40 INFO  Log:28 - empname is provided
+2019-07-18 18:59:40 INFO  Log:28 - empid  is provided
+2019-07-18 18:59:40 INFO  Log:28 - supervisor name is provided
+2019-07-18 18:59:41 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:59:41 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:59:41 INFO  Log:28 - validation is done
+2019-07-18 18:59:41 INFO  Log:28 - Test case: tc_014_validateSearch_ValidEmpName_ValidEmpId_InvalidSupervisorNameis completed
+2019-07-18 18:59:41 INFO  Log:28 - The name of the testcase passed is :tc_014_validateSearch_ValidEmpName_ValidEmpId_InvalidSupervisorName
+2019-07-18 18:59:41 INFO  Log:28 - Closed the Browser
+2019-07-18 18:59:41 INFO  Log:28 - test case ended
+2019-07-18 18:59:41 INFO  Log:28 - test case started
+2019-07-18 18:59:41 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 18:59:45 INFO  Log:28 - tc_015_validateSearch_ValidEmpName_ValidEmpId_ValidSupervisorName test case started
+2019-07-18 18:59:45 INFO  Log:28 - tc_015_validateSearch_ValidEmpName_ValidEmpId_ValidSupervisorNameis started
+2019-07-18 18:59:45 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 18:59:45 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 18:59:50 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 18:59:50 INFO  Log:28 - Enter username:Admin
+2019-07-18 18:59:50 INFO  Log:28 - Enter password:admin123
+2019-07-18 18:59:50 INFO  Log:28 - Login credentails are provided
+2019-07-18 18:59:50 INFO  Log:28 - Login button is clicked
+2019-07-18 18:59:52 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 18:59:52 INFO  Log:28 - The module PIM is found
+2019-07-18 18:59:52 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 18:59:54 INFO  Log:28 - Employee List Module is opened
+2019-07-18 18:59:54 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 18:59:54 INFO  Log:28 - empname is provided
+2019-07-18 18:59:55 INFO  Log:28 - empid  is provided
+2019-07-18 18:59:55 INFO  Log:28 - supervisor name is provided
+2019-07-18 18:59:55 INFO  Log:28 - Search button is clicked.
+2019-07-18 18:59:55 INFO  Log:28 - Search Button is clicked
+2019-07-18 18:59:56 INFO  Log:28 - validation is done
+2019-07-18 18:59:56 INFO  Log:28 - Test case: tc_015_validateSearch_ValidEmpName_ValidEmpId_ValidSupervisorNameis completed
+2019-07-18 18:59:56 INFO  Log:28 - The name of the testcase passed is :tc_015_validateSearch_ValidEmpName_ValidEmpId_ValidSupervisorName
+2019-07-18 18:59:56 INFO  Log:28 - Closed the Browser
+2019-07-18 18:59:56 INFO  Log:28 - test case ended
+2019-07-18 18:59:56 INFO  Log:28 - test case started
+2019-07-18 18:59:56 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:00:00 INFO  Log:28 - tc_016_validateSearch_InvalidEmpName_ValidEmpId_ValidSupervisorName test case started
+2019-07-18 19:00:00 INFO  Log:28 - tc_016_validateSearch_InvalidEmpName_ValidEmpId_ValidSupervisorNameis started
+2019-07-18 19:00:00 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:00:00 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:00:04 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:00:04 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:00:04 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:00:04 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:00:04 INFO  Log:28 - Login button is clicked
+2019-07-18 19:00:06 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:00:06 INFO  Log:28 - The module PIM is found
+2019-07-18 19:00:06 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 19:00:08 INFO  Log:28 - Employee List Module is opened
+2019-07-18 19:00:08 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 19:00:09 INFO  Log:28 - empname is provided
+2019-07-18 19:00:09 INFO  Log:28 - empid  is provided
+2019-07-18 19:00:09 INFO  Log:28 - supervisor name is provided
+2019-07-18 19:00:09 INFO  Log:28 - Search button is clicked.
+2019-07-18 19:00:09 INFO  Log:28 - Search Button is clicked
+2019-07-18 19:00:09 INFO  Log:28 - validation is done
+2019-07-18 19:00:09 INFO  Log:28 - Test case: tc_016_validateSearch_InvalidEmpName_ValidEmpId_ValidSupervisorNameis completed
+2019-07-18 19:00:09 INFO  Log:28 - The name of the testcase passed is :tc_016_validateSearch_InvalidEmpName_ValidEmpId_ValidSupervisorName
+2019-07-18 19:00:09 INFO  Log:28 - Closed the Browser
+2019-07-18 19:00:09 INFO  Log:28 - test case ended
+2019-07-18 19:00:09 INFO  Log:28 - test case started
+2019-07-18 19:00:09 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:00:13 INFO  Log:28 - tc_017_ValidateSearch_InvalidEmpName_InvalidEmpId_ValidSupervisorName test case started
+2019-07-18 19:00:13 INFO  Log:28 - tc_017_ValidateSearch_InvalidEmpName_InvalidEmpId_ValidSupervisorNameis started
+2019-07-18 19:00:13 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:00:13 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:00:17 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:00:17 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:00:17 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:00:17 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:00:17 INFO  Log:28 - Login button is clicked
+2019-07-18 19:00:18 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:00:18 INFO  Log:28 - The module PIM is found
+2019-07-18 19:00:18 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 19:00:21 INFO  Log:28 - Employee List Module is opened
+2019-07-18 19:00:21 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 19:00:21 INFO  Log:28 - empname is provided
+2019-07-18 19:00:21 INFO  Log:28 - empid  is provided
+2019-07-18 19:00:21 INFO  Log:28 - supervisor name is provided
+2019-07-18 19:00:21 INFO  Log:28 - Search button is clicked.
+2019-07-18 19:00:22 INFO  Log:28 - Search Button is clicked
+2019-07-18 19:00:22 INFO  Log:28 - validation is done
+2019-07-18 19:00:22 INFO  Log:28 - Test case: tc_017_ValidateSearch_InvalidEmpName_InvalidEmpId_ValidSupervisorNameis completed
+2019-07-18 19:00:22 INFO  Log:28 - The name of the testcase passed is :tc_017_ValidateSearch_InvalidEmpName_InvalidEmpId_ValidSupervisorName
+2019-07-18 19:00:22 INFO  Log:28 - Closed the Browser
+2019-07-18 19:00:22 INFO  Log:28 - test case ended
+2019-07-18 19:00:22 INFO  Log:28 - test case started
+2019-07-18 19:00:22 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:00:25 INFO  Log:28 - tc_018_validateSearch_ValidEmpName_InvalidEmpId_InvalidSupervisorName test case started
+2019-07-18 19:00:25 INFO  Log:28 - tc_018_validateSearch_ValidEmpName_InvalidEmpId_InvalidSupervisorNameis started
+2019-07-18 19:00:25 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:00:25 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:00:29 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:00:29 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:00:29 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:00:29 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:00:29 INFO  Log:28 - Login button is clicked
+2019-07-18 19:00:31 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:00:31 INFO  Log:28 - The module PIM is found
+2019-07-18 19:00:31 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 19:00:33 INFO  Log:28 - Employee List Module is opened
+2019-07-18 19:00:34 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 19:00:34 INFO  Log:28 - empname is provided
+2019-07-18 19:00:34 INFO  Log:28 - empid  is provided
+2019-07-18 19:00:34 INFO  Log:28 - supervisor name is provided
+2019-07-18 19:00:34 INFO  Log:28 - Search button is clicked.
+2019-07-18 19:00:34 INFO  Log:28 - Search Button is clicked
+2019-07-18 19:00:34 INFO  Log:28 - validation is done
+2019-07-18 19:00:34 INFO  Log:28 - Test case: tc_018_validateSearch_ValidEmpName_InvalidEmpId_InvalidSupervisorNameis completed
+2019-07-18 19:00:34 INFO  Log:28 - The name of the testcase passed is :tc_018_validateSearch_ValidEmpName_InvalidEmpId_InvalidSupervisorName
+2019-07-18 19:00:34 INFO  Log:28 - Closed the Browser
+2019-07-18 19:00:34 INFO  Log:28 - test case ended
+2019-07-18 19:00:34 INFO  Log:28 - test case started
+2019-07-18 19:00:34 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:00:38 INFO  Log:28 - tc_019_validateSearch_InvalidEmpName_ValidEmpId_InvalidSupervisorName test case started
+2019-07-18 19:00:38 INFO  Log:28 - tc_019_validateSearch_InvalidEmpName_ValidEmpId_InvalidSupervisorNameis started
+2019-07-18 19:00:38 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:00:38 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:00:42 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:00:42 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:00:42 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:00:42 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:00:42 INFO  Log:28 - Login button is clicked
+2019-07-18 19:00:44 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:00:44 INFO  Log:28 - The module PIM is found
+2019-07-18 19:00:44 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 19:00:46 INFO  Log:28 - Employee List Module is opened
+2019-07-18 19:00:46 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 19:00:46 INFO  Log:28 - empname is provided
+2019-07-18 19:00:46 INFO  Log:28 - empid  is provided
+2019-07-18 19:00:46 INFO  Log:28 - supervisor name is provided
+2019-07-18 19:00:46 INFO  Log:28 - Search button is clicked.
+2019-07-18 19:00:47 INFO  Log:28 - Search Button is clicked
+2019-07-18 19:00:47 INFO  Log:28 - validation is done
+2019-07-18 19:00:47 INFO  Log:28 - Test case: tc_019_validateSearch_InvalidEmpName_ValidEmpId_InvalidSupervisorNameis completed
+2019-07-18 19:00:47 INFO  Log:28 - The name of the testcase passed is :tc_019_validateSearch_InvalidEmpName_ValidEmpId_InvalidSupervisorName
+2019-07-18 19:00:47 INFO  Log:28 - Closed the Browser
+2019-07-18 19:00:47 INFO  Log:28 - test case ended
+2019-07-18 19:00:47 INFO  Log:28 - test case started
+2019-07-18 19:00:47 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:00:50 INFO  Log:28 - tc_020_validateSearch_InvalidEmpName_InvalidEmpId_InvalidSupervisorName test case started
+2019-07-18 19:00:50 INFO  Log:28 - tc_020_validateSearch_InvalidEmpName_InvalidEmpId_InvalidSupervisorNameis started
+2019-07-18 19:00:50 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:00:50 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:00:54 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:00:54 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:00:55 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:00:55 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:00:55 INFO  Log:28 - Login button is clicked
+2019-07-18 19:00:56 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:00:56 INFO  Log:28 - The module PIM is found
+2019-07-18 19:00:56 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 19:00:59 INFO  Log:28 - Employee List Module is opened
+2019-07-18 19:00:59 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 19:00:59 INFO  Log:28 - empname is provided
+2019-07-18 19:00:59 INFO  Log:28 - empid  is provided
+2019-07-18 19:00:59 INFO  Log:28 - supervisor name is provided
+2019-07-18 19:00:59 INFO  Log:28 - Search button is clicked.
+2019-07-18 19:00:59 INFO  Log:28 - Search Button is clicked
+2019-07-18 19:00:59 INFO  Log:28 - validation is done
+2019-07-18 19:00:59 INFO  Log:28 - Test case: tc_020_validateSearch_InvalidEmpName_InvalidEmpId_InvalidSupervisorNameis completed
+2019-07-18 19:00:59 INFO  Log:28 - The name of the testcase passed is :tc_020_validateSearch_InvalidEmpName_InvalidEmpId_InvalidSupervisorName
+2019-07-18 19:00:59 INFO  Log:28 - Closed the Browser
+2019-07-18 19:00:59 INFO  Log:28 - test case ended
+2019-07-18 19:00:59 INFO  Log:28 - test case started
+2019-07-18 19:00:59 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:01:03 INFO  Log:28 - tc_021_validateSearch_ValidEmpName_InvalidEmpId_ValidSupervisorName test case started
+2019-07-18 19:01:03 INFO  Log:28 - tc_021_validateSearch_ValidEmpName_InvalidEmpId_ValidSupervisorNameis started
+2019-07-18 19:01:03 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:01:03 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:01:07 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:01:07 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:01:07 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:01:07 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:01:07 INFO  Log:28 - Login button is clicked
+2019-07-18 19:01:09 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:01:09 INFO  Log:28 - The module PIM is found
+2019-07-18 19:01:09 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 19:01:11 INFO  Log:28 - Employee List Module is opened
+2019-07-18 19:01:11 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 19:01:11 INFO  Log:28 - empname is provided
+2019-07-18 19:01:11 INFO  Log:28 - empid  is provided
+2019-07-18 19:01:11 INFO  Log:28 - supervisor name is provided
+2019-07-18 19:01:11 INFO  Log:28 - Search button is clicked.
+2019-07-18 19:01:12 INFO  Log:28 - Search Button is clicked
+2019-07-18 19:01:12 INFO  Log:28 - validation is done
+2019-07-18 19:01:12 INFO  Log:28 - Test case: tc_021_validateSearch_ValidEmpName_InvalidEmpId_ValidSupervisorNameis completed
+2019-07-18 19:01:12 INFO  Log:28 - The name of the testcase passed is :tc_021_validateSearch_ValidEmpName_InvalidEmpId_ValidSupervisorName
+2019-07-18 19:01:12 INFO  Log:28 - Closed the Browser
+2019-07-18 19:01:12 INFO  Log:28 - test case ended
+2019-07-18 19:01:12 INFO  Log:28 - test case started
+2019-07-18 19:01:12 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:01:15 INFO  Log:28 - tc_022_validateSearch_NoInput test case started
+2019-07-18 19:01:15 INFO  Log:28 - tc_022_validateSearch_NoInputis started
+2019-07-18 19:01:15 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:01:15 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:01:19 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:01:19 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:01:20 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:01:20 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:01:20 INFO  Log:28 - Login button is clicked
+2019-07-18 19:01:21 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:01:21 INFO  Log:28 - The module PIM is found
+2019-07-18 19:01:21 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 19:01:24 INFO  Log:28 - Employee List Module is opened
+2019-07-18 19:01:24 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 19:01:24 INFO  Log:28 - Search button is clicked.
+2019-07-18 19:01:24 INFO  Log:28 - Search Button is clicked
+2019-07-18 19:01:24 INFO  Log:28 - Test case: tc_022_validateSearch_NoInputis completed
+2019-07-18 19:01:24 INFO  Log:28 - The name of the testcase passed is :tc_022_validateSearch_NoInput
+2019-07-18 19:01:24 INFO  Log:28 - Closed the Browser
+2019-07-18 19:01:24 INFO  Log:28 - test case ended
+2019-07-18 19:01:24 INFO  Log:28 - test case started
+2019-07-18 19:01:24 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:01:28 INFO  Log:28 - tc_023_ValidateAddEmployee_Page test case started
+2019-07-18 19:01:28 INFO  Log:28 - tc_023_ValidateAddEmployee_Pageis started
+2019-07-18 19:01:28 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:01:28 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:01:32 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:01:32 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:01:32 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:01:32 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:01:32 INFO  Log:28 - Login button is clicked
+2019-07-18 19:01:34 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:01:34 INFO  Log:28 - The module PIM is found
+2019-07-18 19:01:34 INFO  Log:28 - The sub-module Employee List is clicked
+2019-07-18 19:01:36 INFO  Log:28 - Employee List Module is opened
+2019-07-18 19:01:36 INFO  Log:28 - Employee List Page of PIM module of Orange HRM is displayed.
+2019-07-18 19:01:36 INFO  Log:28 - Add button is clicked.
+2019-07-18 19:01:37 INFO  Log:28 - Add Button is clicked
+2019-07-18 19:01:37 INFO  Log:28 - Test case: tc_023_ValidateAddEmployee_Pageis completed
+2019-07-18 19:01:37 INFO  Log:28 - The name of the testcase passed is :tc_023_ValidateAddEmployee_Page
+2019-07-18 19:01:37 INFO  Log:28 - Closed the Browser
+2019-07-18 19:01:37 INFO  Log:28 - test case ended
+2019-07-18 19:01:37 INFO  Log:28 - test case started
+2019-07-18 19:01:37 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:01:40 INFO  Log:28 - tc_024_ValidateAddEmployee_WithInput test case started
+2019-07-18 19:01:40 INFO  Log:28 - tc_024_ValidateAddEmployee_WithInputis started
+2019-07-18 19:01:40 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:01:40 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:01:44 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:01:44 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:01:45 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:01:45 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:01:45 INFO  Log:28 - Login button is clicked
+2019-07-18 19:01:46 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:01:46 INFO  Log:28 - The module PIM is found
+2019-07-18 19:01:46 INFO  Log:28 - The sub-module Add Employee is clicked
+2019-07-18 19:01:49 INFO  Log:28 - Add Employee Module is opened
+2019-07-18 19:01:49 INFO  Log:28 - first name is provided
+2019-07-18 19:01:49 INFO  Log:28 - second name is provided
+2019-07-18 19:01:49 INFO  Log:28 - empoloyee id is provided
+2019-07-18 19:01:49 INFO  Log:28 - Save button is clicked.
+2019-07-18 19:01:51 INFO  Log:28 - Save Button is clicked
+2019-07-18 19:01:51 INFO  Log:28 - Test case: tc_024_ValidateAddEmployee_WithInputis completed
+2019-07-18 19:01:51 INFO  Log:28 - The name of the testcase passed is :tc_024_ValidateAddEmployee_WithInput
+2019-07-18 19:01:51 INFO  Log:28 - Closed the Browser
+2019-07-18 19:01:51 INFO  Log:28 - test case ended
+2019-07-18 19:01:51 INFO  Log:28 - test case started
+2019-07-18 19:01:51 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:01:54 INFO  Log:28 - tc_025_ValidateAddEmployee_WithoutInput test case started
+2019-07-18 19:01:54 INFO  Log:28 - tc_025_ValidateAddEmployee_WithoutInputis started
+2019-07-18 19:01:54 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:01:54 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:01:58 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:01:58 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:01:58 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:01:58 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:01:58 INFO  Log:28 - Login button is clicked
+2019-07-18 19:02:00 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:02:00 INFO  Log:28 - The module PIM is found
+2019-07-18 19:02:00 INFO  Log:28 - The sub-module Add Employee is clicked
+2019-07-18 19:02:02 INFO  Log:28 - Add Employee Module is opened
+2019-07-18 19:02:02 INFO  Log:28 - Save button is clicked.
+2019-07-18 19:02:02 INFO  Log:28 - Save Button is clicked
+2019-07-18 19:02:02 INFO  Log:28 - error message is displayed
+2019-07-18 19:02:03 INFO  Log:28 - Test case: tc_025_ValidateAddEmployee_WithoutInputis completed
+2019-07-18 19:02:03 INFO  Log:28 - The name of the testcase passed is :tc_025_ValidateAddEmployee_WithoutInput
+2019-07-18 19:02:03 INFO  Log:28 - Closed the Browser
+2019-07-18 19:02:03 INFO  Log:28 - test case ended
+2019-07-18 19:02:03 INFO  Log:28 - test case started
+2019-07-18 19:02:03 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:02:06 INFO  Log:28 - tc_026_ValidateAddEmployee_WithCreateLoginCredentails test case started
+2019-07-18 19:02:06 INFO  Log:28 - tc_026_ValidateAddEmployee_WithCreateLoginCredentailsis started
+2019-07-18 19:02:06 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:02:06 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:02:10 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:02:10 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:02:10 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:02:10 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:02:10 INFO  Log:28 - Login button is clicked
+2019-07-18 19:02:12 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:02:12 INFO  Log:28 - The module PIM is found
+2019-07-18 19:02:12 INFO  Log:28 - The sub-module Add Employee is clicked
+2019-07-18 19:02:14 INFO  Log:28 - Add Employee Module is opened
+2019-07-18 19:02:14 INFO  Log:28 - first name is provided
+2019-07-18 19:02:15 INFO  Log:28 - second name is provided
+2019-07-18 19:02:15 INFO  Log:28 - empoloyee id is provided
+2019-07-18 19:02:15 INFO  Log:28 -  is clicked
+2019-07-18 19:02:15 INFO  Log:28 - navyasritangudu7 is provided
+2019-07-18 19:02:15 INFO  Log:28 - Navyasri@711 is provided
+2019-07-18 19:02:15 INFO  Log:28 - Navyasri@711 is provided
+2019-07-18 19:02:15 INFO  Log:28 - Save button is clicked.
+2019-07-18 19:02:15 INFO  Log:28 - Save Button is clicked
+2019-07-18 19:02:15 INFO  Log:28 - Test case: tc_026_ValidateAddEmployee_WithCreateLoginCredentailsis completed
+2019-07-18 19:02:15 INFO  Log:28 - The name of the testcase passed is :tc_026_ValidateAddEmployee_WithCreateLoginCredentails
+2019-07-18 19:02:15 INFO  Log:28 - Closed the Browser
+2019-07-18 19:02:15 INFO  Log:28 - test case ended
+2019-07-18 19:02:15 INFO  Log:28 - test case started
+2019-07-18 19:02:15 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:02:18 INFO  Log:28 - tc_027_ValidateAddEmployee_WithoutCreateLoginCredentails test case started
+2019-07-18 19:02:18 INFO  Log:28 - tc_027_ValidateAddEmployee_WithoutCreateLoginCredentailsis started
+2019-07-18 19:02:18 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:02:18 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:02:22 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:02:22 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:02:23 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:02:23 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:02:23 INFO  Log:28 - Login button is clicked
+2019-07-18 19:02:24 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:02:24 INFO  Log:28 - The module PIM is found
+2019-07-18 19:02:24 INFO  Log:28 - The sub-module Add Employee is clicked
+2019-07-18 19:02:27 INFO  Log:28 - Add Employee Module is opened
+2019-07-18 19:02:27 INFO  Log:28 - first name is provided
+2019-07-18 19:02:27 INFO  Log:28 - second name is provided
+2019-07-18 19:02:27 INFO  Log:28 - empoloyee id is provided
+2019-07-18 19:02:27 INFO  Log:28 -  is clicked
+2019-07-18 19:02:27 INFO  Log:28 - Save button is clicked.
+2019-07-18 19:02:27 INFO  Log:28 - Save Button is clicked
+2019-07-18 19:02:27 INFO  Log:28 - error message is displayed
+2019-07-18 19:02:27 INFO  Log:28 - Test case: tc_027_ValidateAddEmployee_WithoutCreateLoginCredentailsis completed
+2019-07-18 19:02:27 INFO  Log:28 - The name of the testcase passed is :tc_027_ValidateAddEmployee_WithoutCreateLoginCredentails
+2019-07-18 19:02:27 INFO  Log:28 - Closed the Browser
+2019-07-18 19:02:27 INFO  Log:28 - test case ended
+2019-07-18 19:02:27 INFO  Log:28 - test case started
+2019-07-18 19:02:27 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:02:30 INFO  Log:28 - tc_028_ValidateAddEmployee_WithInvalidCreateLoginCredentails test case started
+2019-07-18 19:02:30 INFO  Log:28 - tc_028_ValidateAddEmployee_WithInvalidCreateLoginCredentailsis started
+2019-07-18 19:02:30 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:02:30 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:02:35 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:02:35 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:02:35 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:02:35 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:02:35 INFO  Log:28 - Login button is clicked
+2019-07-18 19:02:36 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:02:36 INFO  Log:28 - The module PIM is found
+2019-07-18 19:02:36 INFO  Log:28 - The sub-module Add Employee is clicked
+2019-07-18 19:02:39 INFO  Log:28 - Add Employee Module is opened
+2019-07-18 19:02:39 INFO  Log:28 - first name is provided
+2019-07-18 19:02:39 INFO  Log:28 - second name is provided
+2019-07-18 19:02:39 INFO  Log:28 - empoloyee id is provided
+2019-07-18 19:02:39 INFO  Log:28 -  is clicked
+2019-07-18 19:02:39 INFO  Log:28 - navyasritangudu7 is provided
+2019-07-18 19:02:39 INFO  Log:28 - Navyasri@711 is provided
+2019-07-18 19:02:39 INFO  Log:28 - Navyasri@712 is provided
+2019-07-18 19:02:39 INFO  Log:28 - Save button is clicked.
+2019-07-18 19:02:40 INFO  Log:28 - Save Button is clicked
+2019-07-18 19:02:40 INFO  Log:28 - error message is displayed
+2019-07-18 19:02:40 INFO  Log:28 - Test case: tc_028_ValidateAddEmployee_WithInvalidCreateLoginCredentailsis completed
+2019-07-18 19:02:40 INFO  Log:28 - The name of the testcase passed is :tc_028_ValidateAddEmployee_WithInvalidCreateLoginCredentails
+2019-07-18 19:02:40 INFO  Log:28 - Closed the Browser
+2019-07-18 19:02:40 INFO  Log:28 - test case ended
+2019-07-18 19:02:40 INFO  Log:28 - test case started
+2019-07-18 19:02:40 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:02:43 INFO  Log:28 - tc_029_ValidateAddEmployee_Without_usernameInCreateLoginCredentails test case started
+2019-07-18 19:02:43 INFO  Log:28 - tc_029_ValidateAddEmployee_Without_usernameInCreateLoginCredentailsis started
+2019-07-18 19:02:43 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:02:43 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:02:47 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:02:47 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:02:47 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:02:47 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:02:47 INFO  Log:28 - Login button is clicked
+2019-07-18 19:02:49 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:02:49 INFO  Log:28 - The module PIM is found
+2019-07-18 19:02:49 INFO  Log:28 - The sub-module Add Employee is clicked
+2019-07-18 19:02:51 INFO  Log:28 - Add Employee Module is opened
+2019-07-18 19:02:52 INFO  Log:28 - first name is provided
+2019-07-18 19:02:52 INFO  Log:28 - second name is provided
+2019-07-18 19:02:52 INFO  Log:28 - empoloyee id is provided
+2019-07-18 19:02:52 INFO  Log:28 -  is clicked
+2019-07-18 19:02:52 INFO  Log:28 - Navyasri@711 is provided
+2019-07-18 19:02:52 INFO  Log:28 - Navyasri@712 is provided
+2019-07-18 19:02:52 INFO  Log:28 - Save button is clicked.
+2019-07-18 19:02:52 INFO  Log:28 - Save Button is clicked
+2019-07-18 19:02:52 INFO  Log:28 - error message is displayed
+2019-07-18 19:02:52 INFO  Log:28 - Test case: tc_029_ValidateAddEmployee_Without_usernameInCreateLoginCredentailsis completed
+2019-07-18 19:02:52 INFO  Log:28 - The name of the testcase passed is :tc_029_ValidateAddEmployee_Without_usernameInCreateLoginCredentails
+2019-07-18 19:02:52 INFO  Log:28 - Closed the Browser
+2019-07-18 19:02:52 INFO  Log:28 - test case ended
+2019-07-18 19:02:52 INFO  Log:28 - test case started
+2019-07-18 19:02:52 INFO  Log:28 - Launched Chrome Browser
+2019-07-18 19:02:56 INFO  Log:28 - tc_030_ValidateAddEmployee_With_RepeatedUsernameInCreateLoginCredentails test case started
+2019-07-18 19:02:56 INFO  Log:28 - tc_030_ValidateAddEmployee_With_RepeatedUsernameInCreateLoginCredentailsis started
+2019-07-18 19:02:56 INFO  Log:28 - OrangeHrm application is opened
+2019-07-18 19:02:56 INFO  Log:28 - The URL of Orange HRM is loaded
+2019-07-18 19:03:00 INFO  Log:28 - Login Page of Orange HRM is displayed
+2019-07-18 19:03:00 INFO  Log:28 - Enter username:Admin
+2019-07-18 19:03:00 INFO  Log:28 - Enter password:admin123
+2019-07-18 19:03:00 INFO  Log:28 - Login credentails are provided
+2019-07-18 19:03:00 INFO  Log:28 - Login button is clicked
+2019-07-18 19:03:01 INFO  Log:28 - Home Page of Orange HRM is displayed
+2019-07-18 19:03:01 INFO  Log:28 - The module PIM is found
+2019-07-18 19:03:01 INFO  Log:28 - The sub-module Add Employee is clicked
+2019-07-18 19:03:04 INFO  Log:28 - Add Employee Module is opened
+2019-07-18 19:03:04 INFO  Log:28 - first name is provided
+2019-07-18 19:03:04 INFO  Log:28 - second name is provided
+2019-07-18 19:03:04 INFO  Log:28 - empoloyee id is provided
+2019-07-18 19:03:04 INFO  Log:28 -  is clicked
+2019-07-18 19:03:04 INFO  Log:28 - navyasritangudu7 is provided
+2019-07-18 19:03:04 INFO  Log:28 - Navyasri@711 is provided
+2019-07-18 19:03:04 INFO  Log:28 - Navyasri@711 is provided
+2019-07-18 19:03:04 INFO  Log:28 - Save button is clicked.
+2019-07-18 19:03:05 INFO  Log:28 - Save Button is clicked
+2019-07-18 19:03:05 INFO  Log:28 - Test case: tc_030_ValidateAddEmployee_With_RepeatedUsernameInCreateLoginCredentailsis completed
+2019-07-18 19:03:05 INFO  Log:28 - The name of the testcase passed is :tc_030_ValidateAddEmployee_With_RepeatedUsernameInCreateLoginCredentails
+2019-07-18 19:03:05 INFO  Log:28 - Closed the Browser
+2019-07-18 19:03:05 INFO  Log:28 - test case ended

@@ -1,0 +1,35 @@
+2019-07-19 17:44:54 INFO  Log:28 - test case started
+2019-07-19 17:45:05 INFO  Log:28 - The element is displayed
+2019-07-19 17:45:05 INFO  Log:28 - Cleared the field and entered - 'admin in the element
+2019-07-19 17:45:05 INFO  Log:28 - The element is displayed
+2019-07-19 17:45:05 INFO  Log:28 - Cleared the field and entered - 'admin123 in the element
+2019-07-19 17:45:10 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-19 17:45:10 INFO  Log:28 - MyInfoPage is safely clicked 
+2019-07-19 17:45:24 INFO  Log:28 - The login is validated for the user: Jacqueline
+2019-07-19 17:45:26 INFO  Log:28 - test case ended
+2019-07-19 17:45:29 INFO  Log:28 - test case started
+2019-07-19 17:45:33 INFO  Log:28 - The element is displayed
+2019-07-19 17:45:33 INFO  Log:28 - Cleared the field and entered - '_ohrmSysAdmin_ in the element
+2019-07-19 17:45:33 INFO  Log:28 - The element is displayed
+2019-07-19 17:45:33 INFO  Log:28 - Cleared the field and entered - 'sysadmin in the element
+2019-07-19 17:45:38 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-19 17:45:38 INFO  Log:28 - There is no MyInfo module for the user
+2019-07-19 17:45:39 INFO  Log:28 - test case ended
+2019-07-19 17:45:42 INFO  Log:28 - test case started
+2019-07-19 17:45:46 INFO  Log:28 - The element is displayed
+2019-07-19 17:45:46 INFO  Log:28 - Cleared the field and entered - 'linda in the element
+2019-07-19 17:45:46 INFO  Log:28 - The element is displayed
+2019-07-19 17:45:46 INFO  Log:28 - Cleared the field and entered - 'linda.anderson in the element
+2019-07-19 17:45:50 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-19 17:45:50 INFO  Log:28 - MyInfoPage is safely clicked 
+2019-07-19 17:46:02 INFO  Log:28 - The login is validated for the user: Linda
+2019-07-19 17:46:02 INFO  Log:28 - test case ended
+2019-07-19 17:46:06 INFO  Log:28 - test case started
+2019-07-19 17:46:09 INFO  Log:28 - The element is displayed
+2019-07-19 17:46:09 INFO  Log:28 - Cleared the field and entered - 'kevin in the element
+2019-07-19 17:46:09 INFO  Log:28 - The element is displayed
+2019-07-19 17:46:10 INFO  Log:28 - Cleared the field and entered - 'kevin.mathews in the element
+2019-07-19 17:46:14 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-19 17:46:14 INFO  Log:28 - MyInfoPage is safely clicked 
+2019-07-19 17:46:28 INFO  Log:28 - The login is validated for the user: Kevin
+2019-07-19 17:46:29 INFO  Log:28 - test case ended

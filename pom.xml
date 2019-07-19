@@ -18,6 +18,19 @@
 
                 </configuration>
             </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.18.1</version>
+                <configuration>
+                    <!-- TestNG Suite XML files list for test execution -->
+                    <suiteXmlFiles>
+                        <suiteXmlFile>D:\new repository2\jenkinsDataDriven\Orange HRM XML files\testNG.xml</suiteXmlFile>
+                    </suiteXmlFiles>
+                </configuration>
+            </plugin>
+
+
         </plugins>
     </build>
     <dependencies>
@@ -82,6 +95,21 @@
             <artifactId>testng-metrics</artifactId>
             <version>1.5</version>
         </dependency>
+
+
+
+        <dependency>
+            <groupId>org.apache.maven.surefire</groupId>
+            <artifactId>surefire-junit47</artifactId>
+            <version>2.18.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.maven.surefire</groupId>
+            <artifactId>surefire-junit47</artifactId>
+            <version>2.18.1</version>
+        </dependency>
+
 
     </dependencies>
 

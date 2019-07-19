@@ -1,0 +1,12 @@
+2019-07-15 10:14:19 INFO  Log:26 - test case started
+2019-07-15 10:14:22 INFO  Log:26 - browser is launched
+2019-07-15 10:14:23 INFO  Log:26 - Test case: tc_001_validateSearch_ValidEmpNameis started
+2019-07-15 10:14:23 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:14:29 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:14:30 INFO  Log:26 - Login button was clicked
+2019-07-15 10:14:30 INFO  Log:26 - Login is successful
+2019-07-15 10:14:33 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:14:33 INFO  Log:26 - empname is provided
+2019-07-15 10:14:33 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:14:35 INFO  Log:26 - Test case: tc_001_validateSearch_ValidEmpNameis completed
+2019-07-15 10:14:35 INFO  Log:26 - test case ended

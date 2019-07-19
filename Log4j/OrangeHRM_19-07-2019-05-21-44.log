@@ -1,0 +1,21 @@
+2019-07-19 17:21:44 INFO  Log:28 - test case started
+2019-07-19 17:21:47 INFO  Log:28 - The element is displayed
+2019-07-19 17:21:48 INFO  Log:28 - Cleared the field and entered - 'admin in the element
+2019-07-19 17:21:48 INFO  Log:28 - The element is displayed
+2019-07-19 17:21:48 INFO  Log:28 - Cleared the field and entered - 'admin123 in the element
+2019-07-19 17:22:12 INFO  Log:28 - test case started
+2019-07-19 17:22:22 INFO  Log:28 - The element is displayed
+2019-07-19 17:22:22 INFO  Log:28 - Cleared the field and entered - '_ohrmSysAdmin_ in the element
+2019-07-19 17:22:22 INFO  Log:28 - The element is displayed
+2019-07-19 17:22:22 INFO  Log:28 - Cleared the field and entered - 'sysadmin in the element
+2019-07-19 17:22:27 INFO  Log:28 - There is no MyInfo module for the user
+2019-07-19 17:22:30 INFO  Log:28 - test case started
+2019-07-19 17:22:34 INFO  Log:28 - The element is displayed
+2019-07-19 17:22:34 INFO  Log:28 - Cleared the field and entered - 'linda in the element
+2019-07-19 17:22:34 INFO  Log:28 - The element is displayed
+2019-07-19 17:22:34 INFO  Log:28 - Cleared the field and entered - 'linda.anderson in the element
+2019-07-19 17:22:53 INFO  Log:28 - test case started
+2019-07-19 17:22:58 INFO  Log:28 - The element is displayed
+2019-07-19 17:22:58 INFO  Log:28 - Cleared the field and entered - 'kevin in the element
+2019-07-19 17:22:58 INFO  Log:28 - The element is displayed
+2019-07-19 17:22:58 INFO  Log:28 - Cleared the field and entered - 'kevin.mathews in the element

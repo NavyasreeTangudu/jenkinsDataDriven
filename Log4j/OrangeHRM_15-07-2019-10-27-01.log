@@ -1,0 +1,245 @@
+2019-07-15 10:27:01 INFO  Log:26 - test case started
+2019-07-15 10:27:04 INFO  Log:26 - browser is launched
+2019-07-15 10:27:05 INFO  Log:26 - Test case: tc_001_validateSearch_ValidEmpNameis started
+2019-07-15 10:27:05 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:27:10 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:27:11 INFO  Log:26 - Login button was clicked
+2019-07-15 10:27:11 INFO  Log:26 - Login is successful
+2019-07-15 10:27:14 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:27:14 INFO  Log:26 - empname is provided
+2019-07-15 10:27:15 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:27:16 INFO  Log:26 - validation is done
+2019-07-15 10:27:16 INFO  Log:26 - Test case: tc_001_validateSearch_ValidEmpNameis completed
+2019-07-15 10:27:16 INFO  Log:26 - browser is closed
+2019-07-15 10:27:16 INFO  Log:26 - test case ended
+2019-07-15 10:27:16 INFO  Log:26 - test case started
+2019-07-15 10:27:19 INFO  Log:26 - browser is launched
+2019-07-15 10:27:20 INFO  Log:26 - Test case:tc_002_validateSearch_InvalidEmpNameis started
+2019-07-15 10:27:20 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:27:24 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:27:26 INFO  Log:26 - Login button was clicked
+2019-07-15 10:27:26 INFO  Log:26 - Login is successful
+2019-07-15 10:27:29 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:27:29 INFO  Log:26 - empname is provided
+2019-07-15 10:27:30 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:27:30 INFO  Log:26 - validation is done
+2019-07-15 10:27:30 INFO  Log:26 - browser is closed
+2019-07-15 10:27:30 INFO  Log:26 - test case ended
+2019-07-15 10:27:30 INFO  Log:26 - test case started
+2019-07-15 10:27:32 INFO  Log:26 - browser is launched
+2019-07-15 10:27:34 INFO  Log:26 - Test case:tc_003_validateSearch_ValidEmpIdis started
+2019-07-15 10:27:34 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:27:38 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:27:39 INFO  Log:26 - Login button was clicked
+2019-07-15 10:27:39 INFO  Log:26 - Login is successful
+2019-07-15 10:27:42 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:27:42 INFO  Log:26 - empid  is provided
+2019-07-15 10:27:43 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:27:44 INFO  Log:26 - validation is done
+2019-07-15 10:27:44 INFO  Log:26 - browser is closed
+2019-07-15 10:27:44 INFO  Log:26 - test case ended
+2019-07-15 10:27:44 INFO  Log:26 - test case started
+2019-07-15 10:27:47 INFO  Log:26 - browser is launched
+2019-07-15 10:27:48 INFO  Log:26 - Test case:tc_004_validateSearch_InvalidEmpIdis started
+2019-07-15 10:27:48 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:27:52 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:27:53 INFO  Log:26 - Login button was clicked
+2019-07-15 10:27:53 INFO  Log:26 - Login is successful
+2019-07-15 10:27:56 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:27:56 INFO  Log:26 - empid  is provided
+2019-07-15 10:27:57 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:27:57 INFO  Log:26 - validation is done
+2019-07-15 10:27:57 INFO  Log:26 - browser is closed
+2019-07-15 10:27:57 INFO  Log:26 - test case ended
+2019-07-15 10:27:57 INFO  Log:26 - test case started
+2019-07-15 10:27:59 INFO  Log:26 - browser is launched
+2019-07-15 10:28:01 INFO  Log:26 - Test case:tc_005_validateSearch_EmpStatusis started
+2019-07-15 10:28:01 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:28:05 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:28:06 INFO  Log:26 - Login button was clicked
+2019-07-15 10:28:06 INFO  Log:26 - Login is successful
+2019-07-15 10:28:09 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:28:09 INFO  Log:26 - emp status is selected
+2019-07-15 10:28:10 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:28:11 INFO  Log:26 - validation is done
+2019-07-15 10:28:11 INFO  Log:26 - browser is closed
+2019-07-15 10:28:11 INFO  Log:26 - test case ended
+2019-07-15 10:28:11 INFO  Log:26 - test case started
+2019-07-15 10:28:14 INFO  Log:26 - browser is launched
+2019-07-15 10:28:15 INFO  Log:26 - Test case:tc_006_validateSearch_EmpJobTitleis started
+2019-07-15 10:28:15 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:28:19 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:28:20 INFO  Log:26 - Login button was clicked
+2019-07-15 10:28:20 INFO  Log:26 - Login is successful
+2019-07-15 10:28:23 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:28:23 INFO  Log:26 - jobtitile is selected
+2019-07-15 10:28:24 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:28:25 INFO  Log:26 - validation is done
+2019-07-15 10:28:25 INFO  Log:26 - browser is closed
+2019-07-15 10:28:25 INFO  Log:26 - test case ended
+2019-07-15 10:28:25 INFO  Log:26 - test case started
+2019-07-15 10:28:27 INFO  Log:26 - browser is launched
+2019-07-15 10:28:28 INFO  Log:26 - Test case:tc_007_validateSearch_EmpSubUnitis started
+2019-07-15 10:28:28 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:28:33 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:28:34 INFO  Log:26 - Login button was clicked
+2019-07-15 10:28:34 INFO  Log:26 - Login is successful
+2019-07-15 10:28:37 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:28:37 INFO  Log:26 - subunit is selected
+2019-07-15 10:28:37 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:28:39 INFO  Log:26 - validation is done
+2019-07-15 10:28:39 INFO  Log:26 - browser is closed
+2019-07-15 10:28:39 INFO  Log:26 - test case ended
+2019-07-15 10:28:39 INFO  Log:26 - test case started
+2019-07-15 10:28:41 INFO  Log:26 - browser is launched
+2019-07-15 10:28:42 INFO  Log:26 - Test case:tc_008_validateSearch_ValidEmpName_ValidEmpIdis started
+2019-07-15 10:28:42 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:28:46 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:28:48 INFO  Log:26 - Login button was clicked
+2019-07-15 10:28:48 INFO  Log:26 - Login is successful
+2019-07-15 10:28:50 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:28:51 INFO  Log:26 - empname is provided
+2019-07-15 10:28:51 INFO  Log:26 - empid  is provided
+2019-07-15 10:28:51 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:28:52 INFO  Log:26 - validation is done
+2019-07-15 10:28:52 INFO  Log:26 - browser is closed
+2019-07-15 10:28:52 INFO  Log:26 - test case ended
+2019-07-15 10:28:52 INFO  Log:26 - test case started
+2019-07-15 10:28:55 INFO  Log:26 - browser is launched
+2019-07-15 10:28:56 INFO  Log:26 - Test case:tc_009_validateSearch_ValidEmpName_InvalidEmpIdis started
+2019-07-15 10:28:56 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:29:00 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:29:02 INFO  Log:26 - Login button was clicked
+2019-07-15 10:29:02 INFO  Log:26 - Login is successful
+2019-07-15 10:29:04 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:29:05 INFO  Log:26 - empname is provided
+2019-07-15 10:29:05 INFO  Log:26 - empid  is provided
+2019-07-15 10:29:05 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:29:05 INFO  Log:26 - validation is done
+2019-07-15 10:29:05 INFO  Log:26 - browser is closed
+2019-07-15 10:29:05 INFO  Log:26 - test case ended
+2019-07-15 10:29:05 INFO  Log:26 - test case started
+2019-07-15 10:29:08 INFO  Log:26 - browser is launched
+2019-07-15 10:29:09 INFO  Log:26 - Test case:tc_010_validateSearch_InvalidEmpName_ValidEmpIdis started
+2019-07-15 10:29:09 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:29:13 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:29:14 INFO  Log:26 - Login button was clicked
+2019-07-15 10:29:14 INFO  Log:26 - Login is successful
+2019-07-15 10:29:17 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:29:17 INFO  Log:26 - empname is provided
+2019-07-15 10:29:17 INFO  Log:26 - empid  is provided
+2019-07-15 10:29:18 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:29:18 INFO  Log:26 - validation is done
+2019-07-15 10:29:18 INFO  Log:26 - browser is closed
+2019-07-15 10:29:18 INFO  Log:26 - test case ended
+2019-07-15 10:29:18 INFO  Log:26 - test case started
+2019-07-15 10:29:20 INFO  Log:26 - browser is launched
+2019-07-15 10:29:22 INFO  Log:26 - Test case:tc_011_validateSearch_InvalidEmpName_InValidEmpIdis started
+2019-07-15 10:29:22 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:29:26 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:29:27 INFO  Log:26 - Login button was clicked
+2019-07-15 10:29:27 INFO  Log:26 - Login is successful
+2019-07-15 10:29:30 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:29:30 INFO  Log:26 - empname is provided
+2019-07-15 10:29:30 INFO  Log:26 - empid  is provided
+2019-07-15 10:29:31 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:29:31 INFO  Log:26 - validation is done
+2019-07-15 10:29:31 INFO  Log:26 - browser is closed
+2019-07-15 10:29:31 INFO  Log:26 - test case ended
+2019-07-15 10:29:31 INFO  Log:26 - test case started
+2019-07-15 10:29:33 INFO  Log:26 - browser is launched
+2019-07-15 10:29:34 INFO  Log:26 - Test case:tc_012_validateSearch_ValidSupervisorNameis started
+2019-07-15 10:29:34 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:29:38 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:29:40 INFO  Log:26 - Login button was clicked
+2019-07-15 10:29:40 INFO  Log:26 - Login is successful
+2019-07-15 10:29:43 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:29:43 INFO  Log:26 - supervisor name is provided
+2019-07-15 10:29:43 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:29:44 INFO  Log:26 - validation is done
+2019-07-15 10:29:44 INFO  Log:26 - browser is closed
+2019-07-15 10:29:44 INFO  Log:26 - test case ended
+2019-07-15 10:29:45 INFO  Log:26 - test case started
+2019-07-15 10:29:47 INFO  Log:26 - browser is launched
+2019-07-15 10:29:48 INFO  Log:26 - Test case:tc_013_validateSearch_InvalidSupervisorNameis started
+2019-07-15 10:29:48 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:29:52 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:29:54 INFO  Log:26 - Login button was clicked
+2019-07-15 10:29:54 INFO  Log:26 - Login is successful
+2019-07-15 10:29:56 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:29:57 INFO  Log:26 - supervisor name is provided
+2019-07-15 10:29:57 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:29:57 INFO  Log:26 - validation is done
+2019-07-15 10:29:57 INFO  Log:26 - browser is closed
+2019-07-15 10:29:57 INFO  Log:26 - test case ended
+2019-07-15 10:29:57 INFO  Log:26 - test case started
+2019-07-15 10:30:00 INFO  Log:26 - browser is launched
+2019-07-15 10:30:01 INFO  Log:26 - Test case:tc_014_validateSearch_ValidEmpName_ValidEmpId_InvalidSupervisorNameis started
+2019-07-15 10:30:01 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:30:05 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:30:07 INFO  Log:26 - Login button was clicked
+2019-07-15 10:30:07 INFO  Log:26 - Login is successful
+2019-07-15 10:30:09 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:30:09 INFO  Log:26 - empname is provided
+2019-07-15 10:30:10 INFO  Log:26 - empid  is provided
+2019-07-15 10:30:10 INFO  Log:26 - supervisor name is provided
+2019-07-15 10:30:10 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:30:10 INFO  Log:26 - validation is done
+2019-07-15 10:30:10 INFO  Log:26 - browser is closed
+2019-07-15 10:30:10 INFO  Log:26 - test case ended
+2019-07-15 10:30:10 INFO  Log:26 - test case started
+2019-07-15 10:30:13 INFO  Log:26 - browser is launched
+2019-07-15 10:30:14 INFO  Log:26 - tc_015_validateSearch_ValidEmpName_ValidEmpId_ValidSupervisorNameis started
+2019-07-15 10:30:14 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:30:18 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:30:20 INFO  Log:26 - Login button was clicked
+2019-07-15 10:30:20 INFO  Log:26 - Login is successful
+2019-07-15 10:30:22 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:30:22 INFO  Log:26 - empname is provided
+2019-07-15 10:30:23 INFO  Log:26 - empid  is provided
+2019-07-15 10:30:23 INFO  Log:26 - supervisor name is provided
+2019-07-15 10:30:23 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:30:24 INFO  Log:26 - validation is done
+2019-07-15 10:30:24 INFO  Log:26 - browser is closed
+2019-07-15 10:30:24 INFO  Log:26 - test case ended
+2019-07-15 10:30:24 INFO  Log:26 - test case started
+2019-07-15 10:30:27 INFO  Log:26 - browser is launched
+2019-07-15 10:30:28 INFO  Log:26 - tc_016_validateSearch_InvalidEmpName_ValidEmpId_ValidSupervisorNameis started
+2019-07-15 10:30:28 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:30:33 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:30:34 INFO  Log:26 - Login button was clicked
+2019-07-15 10:30:34 INFO  Log:26 - Login is successful
+2019-07-15 10:30:37 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:30:37 INFO  Log:26 - empname is provided
+2019-07-15 10:30:37 INFO  Log:26 - empid  is provided
+2019-07-15 10:30:37 INFO  Log:26 - supervisor name is provided
+2019-07-15 10:30:37 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:30:38 INFO  Log:26 - validation is done
+2019-07-15 10:30:38 INFO  Log:26 - browser is closed
+2019-07-15 10:30:38 INFO  Log:26 - test case ended
+2019-07-15 10:30:38 INFO  Log:26 - test case started
+2019-07-15 10:30:40 INFO  Log:26 - browser is launched
+2019-07-15 10:30:41 INFO  Log:26 - tc_017_ValidateSearch_InvalidEmpName_InvalidEmpId_ValidSupervisorNameis started
+2019-07-15 10:30:41 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:30:46 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:30:47 INFO  Log:26 - Login button was clicked
+2019-07-15 10:30:47 INFO  Log:26 - Login is successful
+2019-07-15 10:30:47 WARN  Log:31 - The name of the testcase failed is :tc_017_ValidateSearch_InvalidEmpName_InvalidEmpId_ValidSupervisorName
+2019-07-15 10:30:48 INFO  Log:26 - browser is closed
+2019-07-15 10:30:48 INFO  Log:26 - test case ended
+2019-07-15 10:30:48 INFO  Log:26 - test case started
+2019-07-15 10:30:50 INFO  Log:26 - browser is launched
+2019-07-15 10:30:52 INFO  Log:26 - tc_018_validateSearch_ValidEmpName_InvalidEmpId_InvalidSupervisorNameis started
+2019-07-15 10:30:52 INFO  Log:26 - OrangeHrm application is opened
+2019-07-15 10:30:59 INFO  Log:26 - Login credentails are provided
+2019-07-15 10:31:01 INFO  Log:26 - Login button was clicked
+2019-07-15 10:31:01 INFO  Log:26 - Login is successful
+2019-07-15 10:31:04 INFO  Log:26 - Employee List Module is opened
+2019-07-15 10:31:04 INFO  Log:26 - empname is provided
+2019-07-15 10:31:05 INFO  Log:26 - empid  is provided
+2019-07-15 10:31:05 INFO  Log:26 - supervisor name is provided
+2019-07-15 10:31:05 INFO  Log:26 - Search Button is clicked
+2019-07-15 10:31:05 INFO  Log:26 - validation is done
+2019-07-15 10:31:05 INFO  Log:26 - browser is closed
+2019-07-15 10:31:05 INFO  Log:26 - test case ended
+2019-07-15 10:31:05 INFO  Log:26 - test case started
