@@ -23,29 +23,20 @@ public class LoginPage extends SafeActions {
     }
 
 
-    public void verifyLoginPage(String empId,String name){
-    try {
-        WebElement myInfoPage = driver.findElement(By.xpath("//span[contains(text(),'My Info')]"));
-        safeClick(myInfoPage, 10,"MyInfoPage");
-        WebDriverWait wait = new WebDriverWait(driver, 30);
-        wait.until(ExpectedConditions.presenceOfElementLocated(By.id("firstName")));
-        WebElement verifyName = driver.findElement(By.id("firstName"));
-        WebElement verifyId = driver.findElement(By.id("employeeId"));
-        Assert.assertTrue(verifyName.getAttribute("value").equals(name));
-        Assert.assertTrue(verifyId.getAttribute("value").equals(empId));
-        Log.info("The login is validated for the user: "+name);
-    }catch (NoSuchElementException e){
-        Log.info("There is no MyInfo module for the user");
-    } }
+    public void verifyLoginPage(String moduleName) {
+        String ModuleString = "//span[text()='" + moduleName + "']";
 
-
+            WebElement module = driver.findElement(By.xpath(ModuleString));
+            Assert.assertEquals(safeGetText(module,10), moduleName);
+            Log.info(moduleName + " module is available");
+    }
     public void userLogin(String userName, String passWord)  {
         WebElement username=driver.findElement(By.id("txtUsername"));
-        displayable(username);
-        safeSendKeys(username,userName);
+        displayable(username,10);
+        safeSendKeys(username,userName,10);
         WebElement password=driver.findElement(By.id("txtPassword"));
-        displayable(password);
-        safeSendKeys(password,passWord);
+        displayable(password,10);
+        safeSendKeys(password,passWord,10);
         WebElement login=driver.findElement(By.cssSelector("[type='submit']"));
         safeClick(login,10,"LoginButton");
 

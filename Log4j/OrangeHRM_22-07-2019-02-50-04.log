@@ -1,0 +1,79 @@
+2019-07-22 14:50:04 INFO  Log:28 - test case started
+2019-07-22 14:50:15 INFO  Log:28 - The element is displayed
+2019-07-22 14:50:15 INFO  Log:28 - Cleared the field and entered - admin in the field
+2019-07-22 14:50:15 INFO  Log:28 - The element is displayed
+2019-07-22 14:50:15 INFO  Log:28 - Cleared the field and entered - admin123 in the field
+2019-07-22 14:50:21 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-22 14:50:21 INFO  Log:28 - My Shortcuts module is available
+2019-07-22 14:50:21 INFO  Log:28 - Admin module is available
+2019-07-22 14:50:21 INFO  Log:28 - PIM module is available
+2019-07-22 14:50:21 INFO  Log:28 - My Info module is available
+2019-07-22 14:50:21 INFO  Log:28 - Leave module is available
+2019-07-22 14:50:21 INFO  Log:28 - Time module is available
+2019-07-22 14:50:21 INFO  Log:28 - Recruitment module is available
+2019-07-22 14:50:21 INFO  Log:28 - Discipline module is available
+2019-07-22 14:50:21 INFO  Log:28 - Training module is available
+2019-07-22 14:50:21 INFO  Log:28 - Performance module is available
+2019-07-22 14:50:21 INFO  Log:28 - On-boarding module is available
+2019-07-22 14:50:21 INFO  Log:28 - Expense module is available
+2019-07-22 14:50:21 INFO  Log:28 - Reports Catalog module is available
+2019-07-22 14:50:21 INFO  Log:28 - More module is available
+2019-07-22 14:50:22 INFO  Log:28 - test case ended
+2019-07-22 14:50:26 INFO  Log:28 - test case started
+2019-07-22 14:50:30 INFO  Log:28 - The element is displayed
+2019-07-22 14:50:30 INFO  Log:28 - Cleared the field and entered - _ohrmSysAdmin_ in the field
+2019-07-22 14:50:30 INFO  Log:28 - The element is displayed
+2019-07-22 14:50:30 INFO  Log:28 - Cleared the field and entered - sysadmin in the field
+2019-07-22 14:50:38 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-22 14:50:38 INFO  Log:28 - My Shortcuts module is available
+2019-07-22 14:50:38 INFO  Log:28 - Admin module is available
+2019-07-22 14:50:38 INFO  Log:28 - PIM module is available
+2019-07-22 14:50:38 INFO  Log:28 - Leave module is available
+2019-07-22 14:50:38 INFO  Log:28 - Time module is available
+2019-07-22 14:50:38 INFO  Log:28 - Recruitment module is available
+2019-07-22 14:50:38 INFO  Log:28 - Discipline module is available
+2019-07-22 14:50:38 INFO  Log:28 - Training module is available
+2019-07-22 14:50:38 INFO  Log:28 - Performance module is available
+2019-07-22 14:50:38 INFO  Log:28 - On-boarding module is available
+2019-07-22 14:50:38 INFO  Log:28 - Expense module is available
+2019-07-22 14:50:38 INFO  Log:28 - Reports Catalog module is available
+2019-07-22 14:50:38 INFO  Log:28 - More module is available
+2019-07-22 14:50:38 INFO  Log:28 - test case ended
+2019-07-22 14:50:42 INFO  Log:28 - test case started
+2019-07-22 14:50:47 INFO  Log:28 - The element is displayed
+2019-07-22 14:50:47 INFO  Log:28 - Cleared the field and entered - linda in the field
+2019-07-22 14:50:47 INFO  Log:28 - The element is displayed
+2019-07-22 14:50:47 INFO  Log:28 - Cleared the field and entered - linda.anderson in the field
+2019-07-22 14:50:55 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-22 14:50:55 INFO  Log:28 - My Shortcuts module is available
+2019-07-22 14:50:55 INFO  Log:28 - PIM module is available
+2019-07-22 14:50:55 INFO  Log:28 - My Info module is available
+2019-07-22 14:50:55 INFO  Log:28 - Leave module is available
+2019-07-22 14:50:55 INFO  Log:28 - Time module is available
+2019-07-22 14:50:55 INFO  Log:28 - Recruitment module is available
+2019-07-22 14:50:55 INFO  Log:28 - Training module is available
+2019-07-22 14:50:55 INFO  Log:28 - Performance module is available
+2019-07-22 14:50:55 INFO  Log:28 - On-boarding module is available
+2019-07-22 14:50:55 INFO  Log:28 - Expense module is available
+2019-07-22 14:50:55 INFO  Log:28 - More module is available
+2019-07-22 14:50:55 INFO  Log:28 - test case ended
+2019-07-22 14:50:59 INFO  Log:28 - test case started
+2019-07-22 14:51:04 INFO  Log:28 - The element is displayed
+2019-07-22 14:51:04 INFO  Log:28 - Cleared the field and entered - kevin in the field
+2019-07-22 14:51:04 INFO  Log:28 - The element is displayed
+2019-07-22 14:51:04 INFO  Log:28 - Cleared the field and entered - kevin.mathews in the field
+2019-07-22 14:51:08 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-22 14:51:08 INFO  Log:28 - My Shortcuts module is available
+2019-07-22 14:51:08 INFO  Log:28 - PIM module is available
+2019-07-22 14:51:08 INFO  Log:28 - My Info module is available
+2019-07-22 14:51:08 INFO  Log:28 - Leave module is available
+2019-07-22 14:51:08 INFO  Log:28 - Time module is available
+2019-07-22 14:51:08 INFO  Log:28 - Recruitment module is available
+2019-07-22 14:51:08 INFO  Log:28 - Discipline module is available
+2019-07-22 14:51:08 INFO  Log:28 - Training module is available
+2019-07-22 14:51:08 INFO  Log:28 - Configuration module is available
+2019-07-22 14:51:08 INFO  Log:28 - Performance module is available
+2019-07-22 14:51:08 INFO  Log:28 - On-boarding module is available
+2019-07-22 14:51:08 INFO  Log:28 - Expense module is available
+2019-07-22 14:51:08 INFO  Log:28 - More module is available
+2019-07-22 14:51:09 INFO  Log:28 - test case ended

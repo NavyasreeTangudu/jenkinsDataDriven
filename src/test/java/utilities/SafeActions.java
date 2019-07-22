@@ -37,13 +37,16 @@ public class SafeActions {
         }
     }
 
-    public void safeSendKeys(WebElement element,String credential)
+    public void safeSendKeys(WebElement element,String credential,double waiting)
     {
 
         try
         {
             if(element.isDisplayed())
             {
+                WebDriverWait wait = new WebDriverWait(driver, (long) waiting);
+
+                wait.until(ExpectedConditions.elementToBeClickable(element));
                 element.clear();
                 element.sendKeys(credential);
                 Log.info("Cleared the field and entered - "+credential+" in the field");
@@ -71,21 +74,27 @@ public class SafeActions {
         }
     }
 
-    public void displayable(WebElement element){
+    public void displayable(WebElement element,double waiting){
         if(element.isDisplayed())
         {
-            Log.info("The element is displayed");
+            WebDriverWait wait = new WebDriverWait(driver, (long) waiting);
+
+            wait.until(ExpectedConditions.elementToBeClickable(element));
+
         }
         else{
             Log.error("The element is not displayed");
         }
     }
-    public String safeGetText(WebElement element){
+    public String safeGetText(WebElement element,double waiting){
         String sValue = null;
         try
         {
             if(element.isDisplayed())
             {
+                WebDriverWait wait = new WebDriverWait(driver, (long) waiting);
+
+                wait.until(ExpectedConditions.elementToBeClickable(element));
                 sValue = element.getText();
             }
             else

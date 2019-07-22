@@ -4,13 +4,13 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="80.855">
+           time="52.610">
   <properties />
   
   
-            <testcase name="test_DataProviders" time="10.771" classname="testsuite.TC_OrangeHrm" />
-                <testcase name="test_DataProviders" time="19.785" classname="testsuite.TC_OrangeHrm" />
-                <testcase name="test_DataProviders" time="29.268" classname="testsuite.TC_OrangeHrm" />
-                <testcase name="test_DataProviders" time="21.031" classname="testsuite.TC_OrangeHrm" />
+            <testcase name="test_DataProviders" time="9.082" classname="testsuite.TC_OrangeHrm" />
+                <testcase name="test_DataProviders" time="10.906" classname="testsuite.TC_OrangeHrm" />
+                <testcase name="test_DataProviders" time="22.848" classname="testsuite.TC_OrangeHrm" />
+                <testcase name="test_DataProviders" time="9.774" classname="testsuite.TC_OrangeHrm" />
       
 </testsuite>

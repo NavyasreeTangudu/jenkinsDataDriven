@@ -1,0 +1,22 @@
+2019-07-22 12:02:29 INFO  Log:28 - test case started
+2019-07-22 12:02:33 INFO  Log:28 - The element is displayed
+2019-07-22 12:02:33 INFO  Log:28 - Cleared the field and entered - admin in the field
+2019-07-22 12:02:33 INFO  Log:28 - The element is displayed
+2019-07-22 12:02:33 INFO  Log:28 - Cleared the field and entered - admin123 in the field
+2019-07-22 12:02:38 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-22 12:02:39 INFO  Log:28 - test case ended
+2019-07-22 12:02:43 INFO  Log:28 - test case started
+2019-07-22 12:02:51 INFO  Log:28 - The element is displayed
+2019-07-22 12:02:51 INFO  Log:28 - Cleared the field and entered - _ohrmSysAdmin_ in the field
+2019-07-22 12:02:51 INFO  Log:28 - The element is displayed
+2019-07-22 12:02:51 INFO  Log:28 - Cleared the field and entered - sysadmin in the field
+2019-07-22 12:02:56 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-22 12:02:56 INFO  Log:28 - test case ended
+2019-07-22 12:03:00 INFO  Log:28 - test case started
+2019-07-22 12:03:04 INFO  Log:28 - The element is displayed
+2019-07-22 12:03:04 INFO  Log:28 - Cleared the field and entered - linda in the field
+2019-07-22 12:03:04 INFO  Log:28 - The element is displayed
+2019-07-22 12:03:04 INFO  Log:28 - Cleared the field and entered - linda.anderson in the field
+2019-07-22 12:03:08 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-22 12:03:08 INFO  Log:28 - test case ended
+2019-07-22 12:03:12 INFO  Log:28 - test case started

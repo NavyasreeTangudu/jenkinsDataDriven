@@ -1,0 +1,96 @@
+2019-07-22 12:36:50 INFO  Log:28 - test case started
+2019-07-22 12:37:07 INFO  Log:28 - The element is displayed
+2019-07-22 12:37:07 INFO  Log:28 - Cleared the field and entered - admin in the field
+2019-07-22 12:37:07 INFO  Log:28 - The element is displayed
+2019-07-22 12:37:07 INFO  Log:28 - Cleared the field and entered - admin123 in the field
+2019-07-22 12:37:12 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-22 12:37:13 INFO  Log:28 - My Shortcuts module is available
+2019-07-22 12:37:13 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:13 INFO  Log:28 - Admin module is available
+2019-07-22 12:37:13 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:13 INFO  Log:28 - PIM module is available
+2019-07-22 12:37:13 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:13 INFO  Log:28 - My Info module is available
+2019-07-22 12:37:13 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:13 INFO  Log:28 - Leave module is available
+2019-07-22 12:37:13 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:13 INFO  Log:28 - Time module is available
+2019-07-22 12:37:13 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:13 INFO  Log:28 - Recruitment module is available
+2019-07-22 12:37:13 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:13 INFO  Log:28 - Discipline module is available
+2019-07-22 12:37:13 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:13 INFO  Log:28 - Training module is available
+2019-07-22 12:37:13 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:13 INFO  Log:28 - Performance module is available
+2019-07-22 12:37:13 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:14 INFO  Log:28 - On-boarding module is available
+2019-07-22 12:37:14 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:14 INFO  Log:28 - Expense module is available
+2019-07-22 12:37:14 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:14 INFO  Log:28 - Reports Catalog module is available
+2019-07-22 12:37:14 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:14 INFO  Log:28 - More module is available
+2019-07-22 12:37:14 INFO  Log:28 - Admin page is verified
+2019-07-22 12:37:16 INFO  Log:28 - test case ended
+2019-07-22 12:37:19 INFO  Log:28 - test case started
+2019-07-22 12:37:23 INFO  Log:28 - The element is displayed
+2019-07-22 12:37:23 INFO  Log:28 - Cleared the field and entered - _ohrmSysAdmin_ in the field
+2019-07-22 12:37:23 INFO  Log:28 - The element is displayed
+2019-07-22 12:37:23 INFO  Log:28 - Cleared the field and entered - sysadmin in the field
+2019-07-22 12:37:28 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-22 12:37:28 INFO  Log:28 - My Shortcuts module is available
+2019-07-22 12:37:28 INFO  Log:28 - system-admin page is verified
+2019-07-22 12:37:28 INFO  Log:28 - Admin module is available
+2019-07-22 12:37:28 INFO  Log:28 - system-admin page is verified
+2019-07-22 12:37:28 INFO  Log:28 - PIM module is available
+2019-07-22 12:37:28 INFO  Log:28 - system-admin page is verified
+2019-07-22 12:37:28 INFO  Log:28 - Leave module is available
+2019-07-22 12:37:28 INFO  Log:28 - system-admin page is verified
+2019-07-22 12:37:28 INFO  Log:28 - Time module is available
+2019-07-22 12:37:28 INFO  Log:28 - system-admin page is verified
+2019-07-22 12:37:29 INFO  Log:28 - Recruitment module is available
+2019-07-22 12:37:29 INFO  Log:28 - system-admin page is verified
+2019-07-22 12:37:29 INFO  Log:28 - Discipline module is available
+2019-07-22 12:37:29 INFO  Log:28 - system-admin page is verified
+2019-07-22 12:37:29 INFO  Log:28 - Training module is available
+2019-07-22 12:37:29 INFO  Log:28 - system-admin page is verified
+2019-07-22 12:37:29 INFO  Log:28 - Performance module is available
+2019-07-22 12:37:29 INFO  Log:28 - system-admin page is verified
+2019-07-22 12:37:29 INFO  Log:28 - On-boarding module is available
+2019-07-22 12:37:29 INFO  Log:28 - system-admin page is verified
+2019-07-22 12:37:29 INFO  Log:28 - Expense module is available
+2019-07-22 12:37:29 INFO  Log:28 - system-admin page is verified
+2019-07-22 12:37:29 INFO  Log:28 - Reports Catalog module is available
+2019-07-22 12:37:29 INFO  Log:28 - system-admin page is verified
+2019-07-22 12:37:29 INFO  Log:28 - More module is available
+2019-07-22 12:37:29 INFO  Log:28 - system-admin page is verified
+2019-07-22 12:37:29 INFO  Log:28 - test case ended
+2019-07-22 12:37:33 INFO  Log:28 - test case started
+2019-07-22 12:37:38 INFO  Log:28 - The element is displayed
+2019-07-22 12:37:38 INFO  Log:28 - Cleared the field and entered - linda in the field
+2019-07-22 12:37:38 INFO  Log:28 - The element is displayed
+2019-07-22 12:37:38 INFO  Log:28 - Cleared the field and entered - linda.anderson in the field
+2019-07-22 12:37:44 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-22 12:37:44 INFO  Log:28 - My Shortcuts module is available
+2019-07-22 12:37:44 INFO  Log:28 - linda page is verified
+2019-07-22 12:37:44 INFO  Log:28 - PIM module is available
+2019-07-22 12:37:44 INFO  Log:28 - linda page is verified
+2019-07-22 12:37:44 INFO  Log:28 - My Info module is available
+2019-07-22 12:37:44 INFO  Log:28 - linda page is verified
+2019-07-22 12:37:44 INFO  Log:28 - Leave module is available
+2019-07-22 12:37:44 INFO  Log:28 - linda page is verified
+2019-07-22 12:37:44 INFO  Log:28 - Time module is available
+2019-07-22 12:37:44 INFO  Log:28 - linda page is verified
+2019-07-22 12:37:44 INFO  Log:28 - Recruitment module is available
+2019-07-22 12:37:44 INFO  Log:28 - linda page is verified
+2019-07-22 12:37:44 INFO  Log:28 - Training module is available
+2019-07-22 12:37:44 INFO  Log:28 - linda page is verified
+2019-07-22 12:37:44 INFO  Log:28 - Performance module is available
+2019-07-22 12:37:44 INFO  Log:28 - linda page is verified
+2019-07-22 12:37:44 INFO  Log:28 - On-boarding module is available
+2019-07-22 12:37:44 INFO  Log:28 - linda page is verified
+2019-07-22 12:37:44 INFO  Log:28 - Expense module is available
+2019-07-22 12:37:44 INFO  Log:28 - linda page is verified
+2019-07-22 12:37:44 INFO  Log:28 - test case ended
+2019-07-22 12:37:48 INFO  Log:28 - test case started

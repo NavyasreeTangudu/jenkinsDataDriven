@@ -4,14 +4,12 @@
     <list default="true" id="c2b08f1e-d728-4c78-88d4-184ce94f0753" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/BrowserSetUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/BrowserSetUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testsuite/TC_OrangeHrm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testsuite/TC_OrangeHrm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/base/BrowserSetUp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/BrowserSetUp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/SafeActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/SafeActions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/LoginPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/testsuite/TC_OrangeHrm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testsuite/TC_OrangeHrm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/SafeActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/SafeActions.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/xml/testsuite.TC_OrangeHrm_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/testsuite.TC_OrangeHrm_results.xml" afterDir="false" />
@@ -32,8 +30,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/base/BrowserSetUp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="731">
+              <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,14 +39,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/testsuite/TC_OrangeHrm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-590">
+              <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/SafeActions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
             </state>
           </provider>
         </entry>
@@ -56,17 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="18" selection-start-line="17" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Log.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="549">
+              <caret line="120" column="21" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -81,19 +76,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/SafeActions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="58" column="121" lean-forward="true" selection-start-line="58" selection-start-column="121" selection-end-line="58" selection-end-column="121" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+            <state relative-caret-position="240">
+              <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,13 +95,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/Log.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/SafeActions.java" />
         <option value="$PROJECT_DIR$/src/test/java/base/BrowserSetUp.java" />
-        <option value="$PROJECT_DIR$/src/test/java/testsuite/TC_OrangeHrm.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/SafeActions.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testsuite/TC_OrangeHrm.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -129,6 +122,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,6 +135,11 @@
               <item name="jenkinsDataDriven" type="b2602c69:ProjectViewProjectNode" />
               <item name="jenkinsDataDriven" type="462c0819:PsiDirectoryNode" />
               <item name="Orange HRM XML files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jenkinsDataDriven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jenkinsDataDriven" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jenkinsDataDriven" type="b2602c69:ProjectViewProjectNode" />
@@ -188,23 +188,27 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jenkinsDataDriven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jenkinsDataDriven" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/utilities" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utilities" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\new repository2\jenkinsDataDriven\src\test\java\utilities" />
       <recent name="D:\new repository2\jenkinsDataDriven\src" />
       <recent name="D:\new repository2\jenkinsDataDriven" />
     </key>
@@ -271,34 +275,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.19 at 17h 23m 17s.xml">
+    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.22 at 14h 41m 40s.xml">
       <configuration name="D:/new repository2/jenkinsDataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.19 at 17h 28m 06s.xml">
+    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.22 at 14h 42m 23s.xml">
       <configuration name="D:/new repository2/jenkinsDataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.19 at 17h 42m 05s.xml">
+    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.22 at 14h 48m 09s.xml">
       <configuration name="D:/new repository2/jenkinsDataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.19 at 17h 42m 47s.xml">
+    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.22 at 14h 49m 28s.xml">
       <configuration name="D:/new repository2/jenkinsDataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.19 at 17h 46m 29s.xml">
+    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.22 at 14h 51m 09s.xml">
       <configuration name="D:/new repository2/jenkinsDataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.19 at 17h 47m 59s.xml">
+    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.22 at 15h 20m 38s.xml">
       <configuration name="D:/new repository2/jenkinsDataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.19 at 18h 17m 42s.xml">
+    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.22 at 15h 25m 01s.xml">
       <configuration name="D:/new repository2/jenkinsDataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.19 at 18h 21m 13s.xml">
+    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.22 at 15h 26m 53s.xml">
       <configuration name="D:/new repository2/jenkinsDataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.19 at 18h 25m 37s.xml">
+    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.22 at 16h 04m 55s.xml">
       <configuration name="D:/new repository2/jenkinsDataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.19 at 18h 33m 56s.xml">
+    <history-entry file="D__new_repository2_jenkinsDataDriven_Orange_HRM_XML_files_testNG_xml - 2019.07.22 at 16h 06m 41s.xml">
       <configuration name="D:/new repository2/jenkinsDataDriven/Orange HRM XML files/testNG.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -306,7 +310,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17549168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2980333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -348,13 +352,6 @@
     <entry file="file://$PROJECT_DIR$/OrangeHrm_DataDriven.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="18" selection-start-line="17" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Log.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -364,8 +361,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/base/BrowserSetUp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="731">
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="120" column="21" selection-start-line="120" selection-start-column="21" selection-end-line="120" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="30" column="58" selection-start-line="30" selection-start-column="58" selection-end-line="30" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -381,28 +395,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/utilities/SafeActions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="58" column="121" lean-forward="true" selection-start-line="58" selection-start-column="121" selection-end-line="58" selection-end-column="121" />
+        <state relative-caret-position="136">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/testsuite/TC_OrangeHrm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-590">
+          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="37" />
         </state>
       </provider>
     </entry>

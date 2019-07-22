@@ -1,0 +1,29 @@
+2019-07-22 12:07:51 INFO  Log:28 - test case started
+2019-07-22 12:08:06 INFO  Log:28 - The element is displayed
+2019-07-22 12:08:06 INFO  Log:28 - Cleared the field and entered - admin in the field
+2019-07-22 12:08:06 INFO  Log:28 - The element is displayed
+2019-07-22 12:08:07 INFO  Log:28 - Cleared the field and entered - admin123 in the field
+2019-07-22 12:08:12 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-22 12:08:13 INFO  Log:28 - My Shortcutsmodule is available
+2019-07-22 12:08:13 INFO  Log:28 - Adminmodule is available
+2019-07-22 12:08:13 INFO  Log:28 - PIMmodule is available
+2019-07-22 12:08:13 INFO  Log:28 - My Infomodule is available
+2019-07-22 12:08:13 INFO  Log:28 - Leavemodule is available
+2019-07-22 12:08:13 INFO  Log:28 - Timemodule is available
+2019-07-22 12:08:13 INFO  Log:28 - Recruitmentmodule is available
+2019-07-22 12:08:13 INFO  Log:28 - Disciplinemodule is available
+2019-07-22 12:08:13 INFO  Log:28 - Trainingmodule is available
+2019-07-22 12:08:13 INFO  Log:28 - Performancemodule is available
+2019-07-22 12:08:13 INFO  Log:28 - On-boardingmodule is available
+2019-07-22 12:08:13 INFO  Log:28 - Expensemodule is available
+2019-07-22 12:08:13 INFO  Log:28 - Reports Catalogmodule is available
+2019-07-22 12:08:13 INFO  Log:28 - Moremodule is available
+2019-07-22 12:08:13 INFO  Log:28 - test case ended
+2019-07-22 12:08:17 INFO  Log:28 - test case started
+2019-07-22 12:08:21 INFO  Log:28 - The element is displayed
+2019-07-22 12:08:21 INFO  Log:28 - Cleared the field and entered - _ohrmSysAdmin_ in the field
+2019-07-22 12:08:21 INFO  Log:28 - The element is displayed
+2019-07-22 12:08:21 INFO  Log:28 - Cleared the field and entered - sysadmin in the field
+2019-07-22 12:08:25 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-22 12:08:25 INFO  Log:28 - test case ended
+2019-07-22 12:08:29 INFO  Log:28 - test case started

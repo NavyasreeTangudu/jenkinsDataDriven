@@ -1,0 +1,7 @@
+2019-07-22 14:42:10 INFO  Log:28 - test case started
+2019-07-22 14:42:14 INFO  Log:28 - The element is displayed
+2019-07-22 14:42:14 INFO  Log:28 - Cleared the field and entered - admin in the field
+2019-07-22 14:42:14 INFO  Log:28 - The element is displayed
+2019-07-22 14:42:14 INFO  Log:28 - Cleared the field and entered - admin123 in the field
+2019-07-22 14:42:19 INFO  Log:28 - LoginButton is safely clicked 
+2019-07-22 14:42:20 INFO  Log:28 - test case ended
