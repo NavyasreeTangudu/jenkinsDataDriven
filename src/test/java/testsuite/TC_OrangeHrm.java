@@ -29,10 +29,8 @@ public class TC_OrangeHrm extends BrowserSetUp{
         loginCredentials[0][0] = "admin";
         loginCredentials[0][1] = "admin123";
 
-
         loginCredentials[1][0] = "_ohrmSysAdmin_";
         loginCredentials[1][1] = "sysadmin";
-
 
         loginCredentials[2][0] = "linda";
         loginCredentials[2][1] = "linda.anderson";

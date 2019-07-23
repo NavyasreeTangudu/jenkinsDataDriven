@@ -26,9 +26,10 @@ public class LoginPage extends SafeActions {
     public void verifyLoginPage(String moduleName) {
         String ModuleString = "//span[text()='" + moduleName + "']";
 
-            WebElement module = driver.findElement(By.xpath(ModuleString));
+        WebElement module = driver.findElement(By.xpath(ModuleString));
             Assert.assertEquals(safeGetText(module,10), moduleName);
             Log.info(moduleName + " module is available");
+
     }
     public void userLogin(String userName, String passWord)  {
         WebElement username=driver.findElement(By.id("txtUsername"));

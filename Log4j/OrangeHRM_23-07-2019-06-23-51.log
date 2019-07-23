@@ -1,0 +1,79 @@
+2019-07-23 18:23:51 INFO  test case started
+2019-07-23 18:23:55 INFO  Cleared the field and entered - admin in the field
+2019-07-23 18:23:55 INFO  Cleared the field and entered - admin123 in the field
+2019-07-23 18:24:01 INFO  LoginButton is safely clicked 
+2019-07-23 18:24:02 INFO  verification for the user-admin is started
+2019-07-23 18:24:02 INFO  My Shortcuts module is available
+2019-07-23 18:24:02 INFO  Admin module is available
+2019-07-23 18:24:02 INFO  PIM module is available
+2019-07-23 18:24:02 INFO  My Info module is available
+2019-07-23 18:24:02 INFO  Leave module is available
+2019-07-23 18:24:02 INFO  Time module is available
+2019-07-23 18:24:02 INFO  Recruitment module is available
+2019-07-23 18:24:03 INFO  Discipline module is available
+2019-07-23 18:24:03 INFO  Training module is available
+2019-07-23 18:24:03 INFO  Performance module is available
+2019-07-23 18:24:03 INFO  On-boarding module is available
+2019-07-23 18:24:03 INFO  Expense module is available
+2019-07-23 18:24:03 INFO  Reports Catalog module is available
+2019-07-23 18:24:03 INFO  More module is available
+2019-07-23 18:24:03 INFO  verification for the user-admin is completed
+2019-07-23 18:24:03 INFO  test case ended
+2019-07-23 18:24:06 INFO  test case started
+2019-07-23 18:24:10 INFO  Cleared the field and entered - _ohrmSysAdmin_ in the field
+2019-07-23 18:24:10 INFO  Cleared the field and entered - sysadmin in the field
+2019-07-23 18:24:16 INFO  LoginButton is safely clicked 
+2019-07-23 18:24:16 INFO  verification for the user-_ohrmSysAdmin_ is started
+2019-07-23 18:24:16 INFO  My Shortcuts module is available
+2019-07-23 18:24:16 INFO  Admin module is available
+2019-07-23 18:24:16 INFO  PIM module is available
+2019-07-23 18:24:16 INFO  Leave module is available
+2019-07-23 18:24:16 INFO  Time module is available
+2019-07-23 18:24:16 INFO  Recruitment module is available
+2019-07-23 18:24:16 INFO  Discipline module is available
+2019-07-23 18:24:16 INFO  Training module is available
+2019-07-23 18:24:16 INFO  Performance module is available
+2019-07-23 18:24:16 INFO  On-boarding module is available
+2019-07-23 18:24:16 INFO  Expense module is available
+2019-07-23 18:24:16 INFO  Reports Catalog module is available
+2019-07-23 18:24:16 INFO  More module is available
+2019-07-23 18:24:16 INFO  verification for the user-_ohrmSysAdmin_s completed
+2019-07-23 18:24:16 INFO  test case ended
+2019-07-23 18:24:20 INFO  test case started
+2019-07-23 18:24:24 INFO  Cleared the field and entered - linda in the field
+2019-07-23 18:24:24 INFO  Cleared the field and entered - linda.anderson in the field
+2019-07-23 18:24:29 INFO  LoginButton is safely clicked 
+2019-07-23 18:24:29 INFO  verification for the user-linda is started
+2019-07-23 18:24:29 INFO  My Shortcuts module is available
+2019-07-23 18:24:29 INFO  PIM module is available
+2019-07-23 18:24:29 INFO  My Info module is available
+2019-07-23 18:24:29 INFO  Leave module is available
+2019-07-23 18:24:29 INFO  Time module is available
+2019-07-23 18:24:29 INFO  Recruitment module is available
+2019-07-23 18:24:29 INFO  Training module is available
+2019-07-23 18:24:29 INFO  Performance module is available
+2019-07-23 18:24:29 INFO  On-boarding module is available
+2019-07-23 18:24:29 INFO  Expense module is available
+2019-07-23 18:24:29 INFO  More module is available
+2019-07-23 18:24:29 INFO  verification for the user-linda is completed
+2019-07-23 18:24:29 INFO  test case ended
+2019-07-23 18:24:33 INFO  test case started
+2019-07-23 18:24:37 INFO  Cleared the field and entered - kevin in the field
+2019-07-23 18:24:37 INFO  Cleared the field and entered - kevin.mathews in the field
+2019-07-23 18:24:41 INFO  LoginButton is safely clicked 
+2019-07-23 18:24:41 INFO  verification for the user-kevin is started
+2019-07-23 18:24:41 INFO  My Shortcuts module is available
+2019-07-23 18:24:41 INFO  PIM module is available
+2019-07-23 18:24:41 INFO  My Info module is available
+2019-07-23 18:24:41 INFO  Leave module is available
+2019-07-23 18:24:41 INFO  Time module is available
+2019-07-23 18:24:41 INFO  Recruitment module is available
+2019-07-23 18:24:41 INFO  Discipline module is available
+2019-07-23 18:24:41 INFO  Training module is available
+2019-07-23 18:24:42 INFO  Configuration module is available
+2019-07-23 18:24:42 INFO  Performance module is available
+2019-07-23 18:24:42 INFO  On-boarding module is available
+2019-07-23 18:24:42 INFO  Expense module is available
+2019-07-23 18:24:42 INFO  More module is available
+2019-07-23 18:24:42 INFO  verification for the user-kevin is completed
+2019-07-23 18:24:42 INFO  test case ended
